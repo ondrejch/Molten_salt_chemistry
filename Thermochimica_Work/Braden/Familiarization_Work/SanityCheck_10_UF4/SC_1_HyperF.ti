@@ -1,0 +1,29 @@
+!Run Description: 
+!This run is part of the initial sanity chack runs made while learning Thermochimica. 
+!We are interested in the behavior of the UF3 UF4 ratio as we change the temprature and F amounts. 
+!This run has a 0.1% reduction in F compared to a stochiometric, pure Flibe-UF4 salt with 10 mol% UF4.
+
+! Initialize variables:
+pressure          = 1
+temperature       = 600:1200:50
+mass(3)           = 5.994            !Li
+mass(4)           = 3.006            !Be
+mass(9)           = 16.16606         !F
+mass(92)           = 1                !U
+temperature unit  = K
+pressure unit     = atm
+mass unit         = moles
+data file         = /home/bclayto4/thermochimica/data/MSTDB-TC_V3.1_Fluorides_No_Func.dat
+step together     = .FALSE.
+
+! Specify output and debug modes:
+print mode        = 2
+debug mode        = .FALSE.
+reinit            = .TRUE.
+
+! Aditional Settings: 
+heat capacity     = .FALSE.
+write json        = .TRUE.
+reinitialization  = .FALSE.
+fuzzy             = .FALSE.
+gibbs min         = .FALSE.

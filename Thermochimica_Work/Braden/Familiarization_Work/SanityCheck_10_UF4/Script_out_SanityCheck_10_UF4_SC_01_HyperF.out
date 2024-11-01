@@ -1,0 +1,1074 @@
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       2.9970 mol Li2BeF4_S1(s)  
+
+     + 1.0000 mol U_S1(s)        
+
+ + 9.0001E-03 mol BeF2_Solid_I_Hi
+
+ + 1.4960E-10 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =     600.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -3.364754E+04
+      F            | 1.2006E+01 |  -5.290245E+05
+      Be           | 3.0060E+00 |  -7.937273E+03
+      Li           | 5.9940E+00 |  -1.236150E+05
+
+  Integral Gibbs energy = -7.14992E+06 [J]
+  Functional norm       =  9.31997E-06 [unitless]
+
+  # of stable pure condensed phases =   4
+  # of stable solution phases       =   0
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+   4.7419E-02 mol MSFL        
+    Cation fractions:
+                  { 0.65324        Li[1+]                        
+                  + 2.5094E-02     Be[CN=IV                      
+                  + 2.6578E-23     U[Dimer]                      
+                  + 1.3189E-04     U[3+]                         
+                  + 0.32154        Be[Dimer                      
+                  + 1.1264E-13     U[CN=VI]                      
+                  + 3.0016E-14     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+    2.6335E-02 Moles of pairs
+    Pair fractions:
+                  { 0.65324        LiF                           
+                  + 2.5094E-02     Be[CN=IV]F2                   
+                  + 2.6578E-23     U[Dimer]F8                    
+                  + 1.3189E-04     UF3                           
+                  + 0.32154        Be[Dimer]F4                   
+                  + 3.0016E-14     U[CN=VII]F4                   
+                  + 1.1264E-13     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 7.0064E-02     Li[1+]-Li[1+]-F-F             
+                  + 1.4060E-05     Be[CN=IV-Be[CN=IV-F-F         
+                  + 9.3791E-46     U[Dimer]-U[Dimer]-F-F         
+                  + 1.0520E-07     U[3+]-U[3+]-F-F               
+                  + 0.22076        Be[Dimer-Be[Dimer-F-F         
+                  + 1.8400E-28     U[CN=VI]-U[CN=VI]-F-F         
+                  + 2.0306E-29     U[CN=VII-U[CN=VII-F-F         
+                  + 7.9176E-02     Li[1+]-Be[CN=IV-F-F           
+                  + 5.5838E-23     Li[1+]-U[Dimer]-F-F           
+                  + 4.8684E-24     Be[CN=IV-U[Dimer]-F-F         
+                  + 6.1883E-05     Li[1+]-U[3+]-F-F              
+                  + 2.9880E-06     Be[CN=IV-U[3+]-F-F            
+                  + 6.2609E-26     U[Dimer]-U[3+]-F-F            
+                  + 0.62603        Li[1+]-Be[Dimer-F-F           
+                  + 3.5235E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 2.7795E-23     U[Dimer]-Be[Dimer-F-F         
+                  + 3.7441E-04     U[3+]-Be[Dimer-F-F            
+                  + 3.5949E-13     Li[1+]-U[CN=VI]-F-F           
+                  + 1.2497E-16     Be[CN=IV-U[CN=VI]-F-F         
+                  + 8.3085E-37     U[Dimer]-U[CN=VI]-F-F         
+                  + 5.5979E-17     U[3+]-U[CN=VI]-F-F            
+                  + 1.5659E-14     Be[Dimer-U[CN=VI]-F-F         
+                  + 5.6277E-14     Li[1+]-U[CN=VII-F-F           
+                  + 4.1514E-17     Be[CN=IV-U[CN=VII-F-F         
+                  + 2.7601E-37     U[Dimer]-U[CN=VII-F-F         
+                  + 1.8596E-17     U[3+]-U[CN=VII-F-F            
+                  + 4.3682E-14     Be[Dimer-U[CN=VII-F-F         
+                  + 1.2225E-28     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 2.9884 mol Li2BeF4_S1(s)  
+
+     + 1.0000 mol U_S1(s)        
+
+ + 5.2101E-06 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =     650.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -3.730088E+04
+      F            | 1.2006E+01 |  -5.314318E+05
+      Be           | 3.0060E+00 |  -9.166651E+03
+      Li           | 5.9940E+00 |  -1.244261E+05
+
+  Integral Gibbs energy = -7.19104E+06 [J]
+  Functional norm       =  8.73840E-09 [unitless]
+
+  # of stable pure condensed phases =   3
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+   9.1861E-02 mol MSFL        
+    Cation fractions:
+                  { 0.71178        Li[1+]                        
+                  + 4.7831E-02     Be[CN=IV                      
+                  + 6.7381E-23     U[Dimer]                      
+                  + 1.0839E-05     U[3+]                         
+                  + 0.24038        Be[Dimer                      
+                  + 1.0176E-12     U[CN=VI]                      
+                  + 1.1440E-13     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+    5.2110E-02 Moles of pairs
+    Pair fractions:
+                  { 0.71178        LiF                           
+                  + 4.7831E-02     Be[CN=IV]F2                   
+                  + 6.7381E-23     U[Dimer]F8                    
+                  + 1.0839E-05     UF3                           
+                  + 0.24038        Be[Dimer]F4                   
+                  + 1.1440E-13     U[CN=VII]F4                   
+                  + 1.0176E-12     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.12018        Li[1+]-Li[1+]-F-F             
+                  + 5.2201E-05     Be[CN=IV-Be[CN=IV-F-F         
+                  + 5.3037E-45     U[Dimer]-U[Dimer]-F-F         
+                  + 1.2695E-09     U[3+]-U[3+]-F-F               
+                  + 9.5487E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 1.2614E-26     U[CN=VI]-U[CN=VI]-F-F         
+                  + 3.3031E-28     U[CN=VII-U[CN=VII-F-F         
+                  + 0.15709        Li[1+]-Be[CN=IV-F-F           
+                  + 1.7804E-22     Li[1+]-U[Dimer]-F-F           
+                  + 1.1271E-23     Be[CN=IV-U[Dimer]-F-F         
+                  + 1.1842E-05     Li[1+]-U[3+]-F-F              
+                  + 5.7227E-07     Be[CN=IV-U[3+]-F-F            
+                  + 2.0277E-26     U[Dimer]-U[3+]-F-F            
+                  + 0.62269        Li[1+]-Be[Dimer-F-F           
+                  + 4.4652E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 4.0013E-23     U[Dimer]-Be[Dimer-F-F         
+                  + 2.4476E-05     U[3+]-Be[Dimer-F-F            
+                  + 3.3844E-12     Li[1+]-U[CN=VI]-F-F           
+                  + 1.8039E-15     Be[CN=IV-U[CN=VI]-F-F         
+                  + 1.6358E-35     U[Dimer]-U[CN=VI]-F-F         
+                  + 4.4613E-17     U[3+]-U[CN=VI]-F-F            
+                  + 7.7151E-14     Be[Dimer-U[CN=VI]-F-F         
+                  + 2.9901E-13     Li[1+]-U[CN=VII-F-F           
+                  + 2.9191E-16     Be[CN=IV-U[CN=VII-F-F         
+                  + 2.6472E-36     U[Dimer]-U[CN=VII-F-F         
+                  + 7.2195E-18     U[3+]-U[CN=VII-F-F            
+                  + 9.0054E-14     Be[Dimer-U[CN=VII-F-F         
+                  + 4.0824E-27     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 2.9785 mol Li2BeF4_S1(s)  
+
+     + 1.0000 mol U_S1(s)        
+
+ + 8.4725E-07 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =     700.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -4.109405E+04
+      F            | 1.2006E+01 |  -5.361912E+05
+      Be           | 3.0060E+00 |  -1.048800E+04
+      Li           | 5.9940E+00 |  -1.208488E+05
+
+  Integral Gibbs energy = -7.23450E+06 [J]
+  Functional norm       =  1.87137E-07 [unitless]
+
+  # of stable pure condensed phases =   3
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       15.269 mol MSFL           
+    Cation fractions:
+                  { 0.75309        Li[1+]                        
+                  + 0.11614        Be[CN=IV                      
+                  + 8.3969E-24     U[Dimer]                      
+                  + 5.9648E-07     U[3+]                         
+                  + 0.13077        Be[Dimer                      
+                  + 2.8195E-12     U[CN=VI]                      
+                  + 3.1452E-13     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       7.95919 Moles of pairs
+    Pair fractions:
+                  { 0.75309        LiF                           
+                  + 0.11614        Be[CN=IV]F2                   
+                  + 8.3969E-24     U[Dimer]F8                    
+                  + 5.9648E-07     UF3                           
+                  + 0.13077        Be[Dimer]F4                   
+                  + 3.1452E-13     U[CN=VII]F4                   
+                  + 2.8195E-12     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.24269        Li[1+]-Li[1+]-F-F             
+                  + 1.5403E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 4.5569E-47     U[Dimer]-U[Dimer]-F-F         
+                  + 4.1826E-12     U[3+]-U[3+]-F-F               
+                  + 1.1357E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 4.9581E-26     U[CN=VI]-U[CN=VI]-F-F         
+                  + 1.2816E-27     U[CN=VII-U[CN=VII-F-F         
+                  + 0.35953        Li[1+]-Be[CN=IV-F-F           
+                  + 2.4392E-23     Li[1+]-U[Dimer]-F-F           
+                  + 6.8578E-25     Be[CN=IV-U[Dimer]-F-F         
+                  + 1.3724E-06     Li[1+]-U[3+]-F-F              
+                  + 5.1432E-08     Be[CN=IV-U[3+]-F-F            
+                  + 1.1684E-28     U[Dimer]-U[3+]-F-F            
+                  + 0.38362        Li[1+]-Be[Dimer-F-F           
+                  + 2.6452E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 1.1834E-24     U[Dimer]-Be[Dimer-F-F         
+                  + 4.4164E-07     U[3+]-Be[Dimer-F-F            
+                  + 8.7645E-12     Li[1+]-U[CN=VI]-F-F           
+                  + 5.5998E-15     Be[CN=IV-U[CN=VI]-F-F         
+                  + 3.0062E-36     U[Dimer]-U[CN=VI]-F-F         
+                  + 4.5275E-18     U[3+]-U[CN=VI]-F-F            
+                  + 4.8085E-14     Be[Dimer-U[CN=VI]-F-F         
+                  + 9.3388E-13     Li[1+]-U[CN=VII-F-F           
+                  + 9.0032E-16     Be[CN=IV-U[CN=VII-F-F         
+                  + 4.8333E-37     U[Dimer]-U[CN=VII-F-F         
+                  + 7.2791E-19     U[3+]-U[CN=VII-F-F            
+                  + 4.8882E-14     Be[Dimer-U[CN=VII-F-F         
+                  + 1.5943E-26     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 1.0000 mol U_S1(s)        
+
+ + 7.1213E-06 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =     750.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -4.502310E+04
+      F            | 1.2006E+01 |  -5.439187E+05
+      Be           | 3.0060E+00 |  -1.189667E+04
+      Li           | 5.9940E+00 |  -1.121664E+05
+
+  Integral Gibbs energy = -7.28340E+06 [J]
+  Functional norm       =  5.93513E-10 [unitless]
+
+  # of stable pure condensed phases =   2
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       15.166 mol MSFL           
+    Cation fractions:
+                  { 0.75759        Li[1+]                        
+                  + 0.10490        Be[CN=IV                      
+                  + 1.3019E-22     U[Dimer]                      
+                  + 1.0477E-06     U[3+]                         
+                  + 0.13752        Be[Dimer                      
+                  + 1.0553E-11     U[CN=VI]                      
+                  + 1.4374E-12     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       7.91197 Moles of pairs
+    Pair fractions:
+                  { 0.75759        LiF                           
+                  + 0.10490        Be[CN=IV]F2                   
+                  + 1.3019E-22     U[Dimer]F8                    
+                  + 1.0477E-06     UF3                           
+                  + 0.13752        Be[Dimer]F4                   
+                  + 1.4374E-12     U[CN=VII]F4                   
+                  + 1.0553E-11     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.25764        Li[1+]-Li[1+]-F-F             
+                  + 1.8174E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 1.1963E-44     U[Dimer]-U[Dimer]-F-F         
+                  + 1.1867E-11     U[3+]-U[3+]-F-F               
+                  + 1.2419E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 1.0270E-24     U[CN=VI]-U[CN=VI]-F-F         
+                  + 3.7036E-26     U[CN=VII-U[CN=VII-F-F         
+                  + 0.32414        Li[1+]-Be[CN=IV-F-F           
+                  + 3.7654E-22     Li[1+]-U[Dimer]-F-F           
+                  + 1.0963E-23     Be[CN=IV-U[Dimer]-F-F         
+                  + 2.4195E-06     Li[1+]-U[3+]-F-F              
+                  + 9.2808E-08     Be[CN=IV-U[3+]-F-F            
+                  + 2.9322E-27     U[Dimer]-U[3+]-F-F            
+                  + 0.40261        Li[1+]-Be[Dimer-F-F           
+                  + 3.0047E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 2.0034E-23     U[Dimer]-Be[Dimer-F-F         
+                  + 7.6718E-07     U[3+]-Be[Dimer-F-F            
+                  + 3.2779E-11     Li[1+]-U[CN=VI]-F-F           
+                  + 2.7303E-14     Be[CN=IV-U[CN=VI]-F-F         
+                  + 2.2169E-34     U[Dimer]-U[CN=VI]-F-F         
+                  + 3.1399E-17     U[3+]-U[CN=VI]-F-F            
+                  + 2.2570E-13     Be[Dimer-U[CN=VI]-F-F         
+                  + 4.2528E-12     Li[1+]-U[CN=VII-F-F           
+                  + 5.1848E-15     Be[CN=IV-U[CN=VII-F-F         
+                  + 4.2098E-35     U[Dimer]-U[CN=VII-F-F         
+                  + 5.9625E-18     U[3+]-U[CN=VII-F-F            
+                  + 2.4149E-13     Be[Dimer-U[CN=VII-F-F         
+                  + 3.9007E-25     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 1.0000 mol U_S1(s)        
+
+ + 1.2434E-05 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =     800.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -4.908504E+04
+      F            | 1.2006E+01 |  -5.469200E+05
+      Be           | 3.0060E+00 |  -1.338855E+04
+      Li           | 5.9940E+00 |  -1.142681E+05
+
+  Integral Gibbs energy = -7.34058E+06 [J]
+  Functional norm       =  1.37510E-09 [unitless]
+
+  # of stable pure condensed phases =   2
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       15.084 mol MSFL           
+    Cation fractions:
+                  { 0.76137        Li[1+]                        
+                  + 9.5437E-02     Be[CN=IV                      
+                  + 1.5014E-21     U[Dimer]                      
+                  + 1.7061E-06     U[3+]                         
+                  + 0.14319        Be[Dimer                      
+                  + 3.3995E-11     U[CN=VI]                      
+                  + 5.4843E-12     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       7.87268 Moles of pairs
+    Pair fractions:
+                  { 0.76137        LiF                           
+                  + 9.5437E-02     Be[CN=IV]F2                   
+                  + 1.5014E-21     U[Dimer]F8                    
+                  + 1.7061E-06     UF3                           
+                  + 0.14319        Be[Dimer]F4                   
+                  + 5.4843E-12     U[CN=VII]F4                   
+                  + 3.3995E-11     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.27063        Li[1+]-Li[1+]-F-F             
+                  + 2.0947E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 1.7256E-42     U[Dimer]-U[Dimer]-F-F         
+                  + 2.9417E-11     U[3+]-U[3+]-F-F               
+                  + 1.3416E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 1.5121E-23     U[CN=VI]-U[CN=VI]-F-F         
+                  + 7.2288E-25     U[CN=VII-U[CN=VII-F-F         
+                  + 0.29415        Li[1+]-Be[CN=IV-F-F           
+                  + 4.3222E-21     Li[1+]-U[Dimer]-F-F           
+                  + 1.3008E-22     Be[CN=IV-U[Dimer]-F-F         
+                  + 3.9491E-06     Li[1+]-U[3+]-F-F              
+                  + 1.5479E-07     Be[CN=IV-U[3+]-F-F            
+                  + 5.1680E-26     U[Dimer]-U[3+]-F-F            
+                  + 0.41824        Li[1+]-Be[Dimer-F-F           
+                  + 3.3527E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 2.4961E-22     U[Dimer]-Be[Dimer-F-F         
+                  + 1.2387E-06     U[3+]-Be[Dimer-F-F            
+                  + 1.0546E-10     Li[1+]-U[CN=VI]-F-F           
+                  + 1.1097E-13     Be[CN=IV-U[CN=VI]-F-F         
+                  + 1.0216E-32     U[Dimer]-U[CN=VI]-F-F         
+                  + 1.7363E-16     U[3+]-U[CN=VI]-F-F            
+                  + 8.8809E-13     Be[Dimer-U[CN=VI]-F-F         
+                  + 1.6162E-11     Li[1+]-U[CN=VII-F-F           
+                  + 2.4264E-14     Be[CN=IV-U[CN=VII-F-F         
+                  + 2.2338E-33     U[Dimer]-U[CN=VII-F-F         
+                  + 3.7964E-17     U[3+]-U[CN=VII-F-F            
+                  + 9.8831E-13     Be[Dimer-U[CN=VII-F-F         
+                  + 6.6122E-24     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 1.0000 mol U_S1(s)        
+
+ + 2.0147E-05 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =     850.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -5.327764E+04
+      F            | 1.2006E+01 |  -5.499886E+05
+      Be           | 3.0060E+00 |  -1.495997E+04
+      Li           | 5.9940E+00 |  -1.165600E+05
+
+  Integral Gibbs energy = -7.40007E+06 [J]
+  Functional norm       =  2.26942E-09 [unitless]
+
+  # of stable pure condensed phases =   2
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       15.019 mol MSFL           
+    Cation fractions:
+                  { 0.76456        Li[1+]                        
+                  + 8.7454E-02     Be[CN=IV                      
+                  + 1.3429E-20     U[Dimer]                      
+                  + 2.6071E-06     U[3+]                         
+                  + 0.14798        Be[Dimer                      
+                  + 9.6454E-11     U[CN=VI]                      
+                  + 1.7986E-11     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       7.83982 Moles of pairs
+    Pair fractions:
+                  { 0.76456        LiF                           
+                  + 8.7454E-02     Be[CN=IV]F2                   
+                  + 1.3429E-20     U[Dimer]F8                    
+                  + 2.6071E-06     UF3                           
+                  + 0.14798        Be[Dimer]F4                   
+                  + 1.7986E-11     U[CN=VII]F4                   
+                  + 9.6454E-11     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.28190        Li[1+]-Li[1+]-F-F             
+                  + 2.3691E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 1.4880E-40     U[Dimer]-U[Dimer]-F-F         
+                  + 6.5042E-11     U[3+]-U[3+]-F-F               
+                  + 1.4340E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 1.6666E-22     U[CN=VI]-U[CN=VI]-F-F         
+                  + 1.0144E-23     U[CN=VII-U[CN=VII-F-F         
+                  + 0.26871        Li[1+]-Be[CN=IV-F-F           
+                  + 3.8476E-20     Li[1+]-U[Dimer]-F-F           
+                  + 1.1942E-21     Be[CN=IV-U[Dimer]-F-F         
+                  + 6.0433E-06     Li[1+]-U[3+]-F-F              
+                  + 2.4167E-07     Be[CN=IV-U[3+]-F-F            
+                  + 6.7226E-25     U[Dimer]-U[3+]-F-F            
+                  + 0.43112        Li[1+]-Be[Dimer-F-F           
+                  + 3.6864E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 2.3903E-21     U[Dimer]-Be[Dimer-F-F         
+                  + 1.8802E-06     U[3+]-Be[Dimer-F-F            
+                  + 2.9870E-10     Li[1+]-U[CN=VI]-F-F           
+                  + 3.8685E-13     Be[CN=IV-U[CN=VI]-F-F         
+                  + 3.1496E-31     U[Dimer]-U[CN=VI]-F-F         
+                  + 7.9235E-16     U[3+]-U[CN=VI]-F-F            
+                  + 3.0097E-12     Be[Dimer-U[CN=VI]-F-F         
+                  + 5.2785E-11     Li[1+]-U[CN=VII-F-F           
+                  + 9.5438E-14     Be[CN=IV-U[CN=VII-F-F         
+                  + 7.7703E-32     U[Dimer]-U[CN=VII-F-F         
+                  + 1.9548E-16     U[3+]-U[CN=VII-F-F            
+                  + 3.4525E-12     Be[Dimer-U[CN=VII-F-F         
+                  + 8.2234E-23     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 1.0000 mol U_S1(s)        
+
+ + 3.0660E-05 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =     900.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -5.759932E+04
+      F            | 1.2006E+01 |  -5.531259E+05
+      Be           | 3.0060E+00 |  -1.660764E+04
+      Li           | 5.9940E+00 |  -1.190176E+05
+
+  Integral Gibbs energy = -7.46174E+06 [J]
+  Functional norm       =  3.60111E-09 [unitless]
+
+  # of stable pure condensed phases =   2
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       14.967 mol MSFL           
+    Cation fractions:
+                  { 0.76726        Li[1+]                        
+                  + 8.0690E-02     Be[CN=IV                      
+                  + 9.5843E-20     U[Dimer]                      
+                  + 3.7638E-06     U[3+]                         
+                  + 0.15204        Be[Dimer                      
+                  + 2.4478E-10     U[CN=VI]                      
+                  + 5.1735E-11     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       7.81219 Moles of pairs
+    Pair fractions:
+                  { 0.76726        LiF                           
+                  + 8.0690E-02     Be[CN=IV]F2                   
+                  + 9.5843E-20     U[Dimer]F8                    
+                  + 3.7638E-06     UF3                           
+                  + 0.15204        Be[Dimer]F4                   
+                  + 5.1735E-11     U[CN=VII]F4                   
+                  + 2.4478E-10     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.29172        Li[1+]-Li[1+]-F-F             
+                  + 2.6384E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 8.1231E-39     U[Dimer]-U[Dimer]-F-F         
+                  + 1.2964E-10     U[3+]-U[3+]-F-F               
+                  + 1.5189E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 1.4255E-21     U[CN=VI]-U[CN=VI]-F-F         
+                  + 1.0690E-22     U[CN=VII-U[CN=VII-F-F         
+                  + 0.24703        Li[1+]-Be[CN=IV-F-F           
+                  + 2.7330E-19     Li[1+]-U[Dimer]-F-F           
+                  + 8.7270E-21     Be[CN=IV-U[Dimer]-F-F         
+                  + 8.7320E-06     Li[1+]-U[3+]-F-F              
+                  + 3.5575E-07     Be[CN=IV-U[3+]-F-F            
+                  + 6.6630E-24     U[Dimer]-U[3+]-F-F            
+                  + 0.44178        Li[1+]-Be[Dimer-F-F           
+                  + 4.0037E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 1.8124E-20     U[Dimer]-Be[Dimer-F-F         
+                  + 2.6992E-06     U[3+]-Be[Dimer-F-F            
+                  + 7.5646E-10     Li[1+]-U[CN=VI]-F-F           
+                  + 1.1797E-12     Be[CN=IV-U[CN=VI]-F-F         
+                  + 6.8057E-30     U[Dimer]-U[CN=VI]-F-F         
+                  + 3.0494E-15     U[3+]-U[CN=VI]-F-F            
+                  + 8.9507E-12     Be[Dimer-U[CN=VI]-F-F         
+                  + 1.5118E-10     Li[1+]-U[CN=VII-F-F           
+                  + 3.2305E-13     Be[CN=IV-U[CN=VII-F-F         
+                  + 1.8637E-30     U[Dimer]-U[CN=VII-F-F         
+                  + 8.3505E-16     U[3+]-U[CN=VII-F-F            
+                  + 1.0511E-11     Be[Dimer-U[CN=VII-F-F         
+                  + 7.8073E-22     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 1.0000 mol U_S2(s2)       
+
+ + 4.4110E-05 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =     950.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -6.207258E+04
+      F            | 1.2006E+01 |  -5.563328E+05
+      Be           | 3.0060E+00 |  -1.832861E+04
+      Li           | 5.9940E+00 |  -1.216210E+05
+
+  Integral Gibbs energy = -7.52550E+06 [J]
+  Functional norm       =  2.78062E-09 [unitless]
+
+  # of stable pure condensed phases =   2
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       14.926 mol MSFL           
+    Cation fractions:
+                  { 0.76957        Li[1+]                        
+                  + 7.4928E-02     Be[CN=IV                      
+                  + 5.4988E-19     U[Dimer]                      
+                  + 5.1195E-06     U[3+]                         
+                  + 0.15550        Be[Dimer                      
+                  + 5.5812E-10     U[CN=VI]                      
+                  + 1.3155E-10     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       7.78881 Moles of pairs
+    Pair fractions:
+                  { 0.76957        LiF                           
+                  + 7.4928E-02     Be[CN=IV]F2                   
+                  + 5.4988E-19     U[Dimer]F8                    
+                  + 5.1195E-06     UF3                           
+                  + 0.15550        Be[Dimer]F4                   
+                  + 1.3155E-10     U[CN=VII]F4                   
+                  + 5.5812E-10     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.30028        Li[1+]-Li[1+]-F-F             
+                  + 2.9011E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 2.8510E-37     U[Dimer]-U[Dimer]-F-F         
+                  + 2.3119E-10     U[3+]-U[3+]-F-F               
+                  + 1.5962E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 9.5854E-21     U[CN=VI]-U[CN=VI]-F-F         
+                  + 8.6214E-22     U[CN=VII-U[CN=VII-F-F         
+                  + 0.22850        Li[1+]-Be[CN=IV-F-F           
+                  + 1.5608E-18     Li[1+]-U[Dimer]-F-F           
+                  + 5.1158E-20     Be[CN=IV-U[Dimer]-F-F         
+                  + 1.1883E-05     Li[1+]-U[3+]-F-F              
+                  + 4.9260E-07     Be[CN=IV-U[3+]-F-F            
+                  + 5.0437E-23     U[Dimer]-U[3+]-F-F            
+                  + 0.45065        Li[1+]-Be[Dimer-F-F           
+                  + 4.3038E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 1.0974E-19     U[Dimer]-Be[Dimer-F-F         
+                  + 3.6538E-06     U[3+]-Be[Dimer-F-F            
+                  + 1.7208E-09     Li[1+]-U[CN=VI]-F-F           
+                  + 3.1719E-12     Be[CN=IV-U[CN=VI]-F-F         
+                  + 1.0455E-28     U[Dimer]-U[CN=VI]-F-F         
+                  + 9.9118E-15     U[3+]-U[CN=VI]-F-F            
+                  + 2.3527E-11     Be[Dimer-U[CN=VI]-F-F         
+                  + 3.8282E-10     Li[1+]-U[CN=VII-F-F           
+                  + 9.5126E-13     Be[CN=IV-U[CN=VII-F-F         
+                  + 3.1356E-29     U[Dimer]-U[CN=VII-F-F         
+                  + 2.9726E-15     U[3+]-U[CN=VII-F-F            
+                  + 2.8135E-11     Be[Dimer-U[CN=VII-F-F         
+                  + 5.7494E-21     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 1.0000 mol U_S2(s2)       
+
+ + 5.9824E-05 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =    1000.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -6.678752E+04
+      F            | 1.2006E+01 |  -5.596091E+05
+      Be           | 3.0060E+00 |  -2.012022E+04
+      Li           | 5.9940E+00 |  -1.243543E+05
+
+  Integral Gibbs energy = -7.59132E+06 [J]
+  Functional norm       =  4.01192E-09 [unitless]
+
+  # of stable pure condensed phases =   2
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       14.892 mol MSFL           
+    Cation fractions:
+                  { 0.77154        Li[1+]                        
+                  + 6.9991E-02     Be[CN=IV                      
+                  + 2.6853E-18     U[Dimer]                      
+                  + 6.7136E-06     U[3+]                         
+                  + 0.15846        Be[Dimer                      
+                  + 1.1769E-09     U[CN=VI]                      
+                  + 3.0527E-10     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       7.76889 Moles of pairs
+    Pair fractions:
+                  { 0.77154        LiF                           
+                  + 6.9991E-02     Be[CN=IV]F2                   
+                  + 2.6853E-18     U[Dimer]F8                    
+                  + 6.7136E-06     UF3                           
+                  + 0.15846        Be[Dimer]F4                   
+                  + 3.0527E-10     U[CN=VII]F4                   
+                  + 1.1769E-09     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.30778        Li[1+]-Li[1+]-F-F             
+                  + 3.1563E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 7.2162E-36     U[Dimer]-U[Dimer]-F-F         
+                  + 3.8564E-10     U[3+]-U[3+]-F-F               
+                  + 1.6661E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 5.3880E-20     U[CN=VI]-U[CN=VI]-F-F         
+                  + 5.6838E-21     U[CN=VII-U[CN=VII-F-F         
+                  + 0.21255        Li[1+]-Be[CN=IV-F-F           
+                  + 7.5878E-18     Li[1+]-U[Dimer]-F-F           
+                  + 2.5472E-19     Be[CN=IV-U[Dimer]-F-F         
+                  + 1.5586E-05     Li[1+]-U[3+]-F-F              
+                  + 6.5668E-07     Be[CN=IV-U[3+]-F-F            
+                  + 3.1537E-22     U[Dimer]-U[3+]-F-F            
+                  + 0.45809        Li[1+]-Be[Dimer-F-F           
+                  + 4.5864E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 5.6234E-19     U[Dimer]-Be[Dimer-F-F         
+                  + 4.7710E-06     U[3+]-Be[Dimer-F-F            
+                  + 3.6197E-09     Li[1+]-U[CN=VI]-F-F           
+                  + 7.7620E-12     Be[CN=IV-U[CN=VI]-F-F         
+                  + 1.2471E-27     U[Dimer]-U[CN=VI]-F-F         
+                  + 2.8661E-14     U[3+]-U[CN=VI]-F-F            
+                  + 5.6394E-11     Be[Dimer-U[CN=VI]-F-F         
+                  + 8.8459E-10     Li[1+]-U[CN=VII-F-F           
+                  + 2.5210E-12     Be[CN=IV-U[CN=VII-F-F         
+                  + 4.0504E-28     U[Dimer]-U[CN=VII-F-F         
+                  + 9.3090E-15     U[3+]-U[CN=VII-F-F            
+                  + 6.8378E-11     Be[Dimer-U[CN=VII-F-F         
+                  + 3.5000E-20     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 0.9999 mol U_S3(s3)       
+
+ + 7.8259E-05 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =    1050.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -7.161435E+04
+      F            | 1.2006E+01 |  -5.629544E+05
+      Be           | 3.0060E+00 |  -2.198005E+04
+      Li           | 5.9940E+00 |  -1.272046E+05
+
+  Integral Gibbs energy = -7.65898E+06 [J]
+  Functional norm       =  5.00463E-09 [unitless]
+
+  # of stable pure condensed phases =   2
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       14.865 mol MSFL           
+    Cation fractions:
+                  { 0.77324        Li[1+]                        
+                  + 6.5733E-02     Be[CN=IV                      
+                  + 1.0872E-17     U[Dimer]                      
+                  + 8.3367E-06     U[3+]                         
+                  + 0.16102        Be[Dimer                      
+                  + 2.2657E-09     U[CN=VI]                      
+                  + 6.3941E-10     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       7.75179 Moles of pairs
+    Pair fractions:
+                  { 0.77324        LiF                           
+                  + 6.5733E-02     Be[CN=IV]F2                   
+                  + 1.0872E-17     U[Dimer]F8                    
+                  + 8.3367E-06     UF3                           
+                  + 0.16102        Be[Dimer]F4                   
+                  + 6.3941E-10     U[CN=VII]F4                   
+                  + 2.2657E-09     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.31436        Li[1+]-Li[1+]-F-F             
+                  + 3.4034E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 1.2502E-34     U[Dimer]-U[Dimer]-F-F         
+                  + 5.7976E-10     U[3+]-U[3+]-F-F               
+                  + 1.7290E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 2.4739E-19     U[CN=VI]-U[CN=VI]-F-F         
+                  + 3.0038E-20     U[CN=VII-U[CN=VII-F-F         
+                  + 0.19876        Li[1+]-Be[CN=IV-F-F           
+                  + 3.0589E-17     Li[1+]-U[Dimer]-F-F           
+                  + 1.0494E-18     Be[CN=IV-U[Dimer]-F-F         
+                  + 1.9355E-05     Li[1+]-U[3+]-F-F              
+                  + 8.2795E-07     Be[CN=IV-U[3+]-F-F            
+                  + 1.5562E-21     U[Dimer]-U[3+]-F-F            
+                  + 0.46438        Li[1+]-Be[Dimer-F-F           
+                  + 4.8516E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 2.3772E-18     U[Dimer]-Be[Dimer-F-F         
+                  + 5.9012E-06     U[3+]-Be[Dimer-F-F            
+                  + 6.9503E-09     Li[1+]-U[CN=VI]-F-F           
+                  + 1.7103E-11     Be[CN=IV-U[CN=VI]-F-F         
+                  + 1.1123E-26     U[Dimer]-U[CN=VI]-F-F         
+                  + 7.1482E-14     U[3+]-U[CN=VI]-F-F            
+                  + 1.2190E-10     Be[Dimer-U[CN=VI]-F-F         
+                  + 1.8453E-09     Li[1+]-U[CN=VII-F-F           
+                  + 5.9596E-12     Be[CN=IV-U[CN=VII-F-F         
+                  + 3.8757E-27     U[Dimer]-U[CN=VII-F-F         
+                  + 2.4908E-14     U[3+]-U[CN=VII-F-F            
+                  + 1.4936E-10     Be[Dimer-U[CN=VII-F-F         
+                  + 1.7241E-19     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 0.9999 mol U_S3(s3)       
+
+ + 9.6982E-05 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =    1100.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -7.675999E+04
+      F            | 1.2006E+01 |  -5.663680E+05
+      Be           | 3.0060E+00 |  -2.390592E+04
+      Li           | 5.9940E+00 |  -1.301609E+05
+
+  Integral Gibbs energy = -7.72862E+06 [J]
+  Functional norm       =  6.44235E-09 [unitless]
+
+  # of stable pure condensed phases =   2
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       14.842 mol MSFL           
+    Cation fractions:
+                  { 0.77472        Li[1+]                        
+                  + 6.2038E-02     Be[CN=IV                      
+                  + 3.9153E-17     U[Dimer]                      
+                  + 1.0111E-05     U[3+]                         
+                  + 0.16323        Be[Dimer                      
+                  + 4.1248E-09     U[CN=VI]                      
+                  + 1.2545E-09     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       7.73702 Moles of pairs
+    Pair fractions:
+                  { 0.77472        LiF                           
+                  + 6.2038E-02     Be[CN=IV]F2                   
+                  + 3.9153E-17     U[Dimer]F8                    
+                  + 1.0111E-05     UF3                           
+                  + 0.16323        Be[Dimer]F4                   
+                  + 1.2545E-09     U[CN=VII]F4                   
+                  + 4.1248E-09     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.32016        Li[1+]-Li[1+]-F-F             
+                  + 3.6418E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 1.7073E-33     U[Dimer]-U[Dimer]-F-F         
+                  + 8.3506E-10     U[3+]-U[3+]-F-F               
+                  + 1.7852E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 9.9803E-19     U[CN=VI]-U[CN=VI]-F-F         
+                  + 1.3727E-19     U[CN=VII-U[CN=VII-F-F         
+                  + 0.18675        Li[1+]-Be[CN=IV-F-F           
+                  + 1.0971E-16     Li[1+]-U[Dimer]-F-F           
+                  + 3.8391E-18     Be[CN=IV-U[Dimer]-F-F         
+                  + 2.3475E-05     Li[1+]-U[3+]-F-F              
+                  + 1.0185E-06     Be[CN=IV-U[3+]-F-F            
+                  + 6.7000E-21     U[Dimer]-U[3+]-F-F            
+                  + 0.46974        Li[1+]-Be[Dimer-F-F           
+                  + 5.0996E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 8.9006E-18     U[Dimer]-Be[Dimer-F-F         
+                  + 7.1314E-06     U[3+]-Be[Dimer-F-F            
+                  + 1.2619E-08     Li[1+]-U[CN=VI]-F-F           
+                  + 3.5212E-11     Be[CN=IV-U[CN=VI]-F-F         
+                  + 8.2557E-26     U[Dimer]-U[CN=VI]-F-F         
+                  + 1.6431E-13     U[3+]-U[CN=VI]-F-F            
+                  + 2.4654E-10     Be[Dimer-U[CN=VI]-F-F         
+                  + 3.6062E-09     Li[1+]-U[CN=VII-F-F           
+                  + 1.3059E-11     Be[CN=IV-U[CN=VII-F-F         
+                  + 3.0618E-26     U[Dimer]-U[CN=VII-F-F         
+                  + 6.0937E-14     U[3+]-U[CN=VII-F-F            
+                  + 3.0439E-10     Be[Dimer-U[CN=VII-F-F         
+                  + 7.4027E-19     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 0.9999 mol U_S3(s3)       
+
+ + 1.1743E-04 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =    1150.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -8.199266E+04
+      F            | 1.2006E+01 |  -5.698487E+05
+      Be           | 3.0060E+00 |  -2.589581E+04
+      Li           | 5.9940E+00 |  -1.332142E+05
+
+  Integral Gibbs energy = -7.79993E+06 [J]
+  Functional norm       =  6.77332E-09 [unitless]
+
+  # of stable pure condensed phases =   2
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+       14.823 mol MSFL           
+    Cation fractions:
+                  { 0.77601        Li[1+]                        
+                  + 5.8810E-02     Be[CN=IV                      
+                  + 1.2710E-16     U[Dimer]                      
+                  + 1.2015E-05     U[3+]                         
+                  + 0.16517        Be[Dimer                      
+                  + 7.1482E-09     U[CN=VI]                      
+                  + 2.3237E-09     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       7.72415 Moles of pairs
+    Pair fractions:
+                  { 0.77601        LiF                           
+                  + 5.8810E-02     Be[CN=IV]F2                   
+                  + 1.2710E-16     U[Dimer]F8                    
+                  + 1.2015E-05     UF3                           
+                  + 0.16517        Be[Dimer]F4                   
+                  + 2.3237E-09     U[CN=VII]F4                   
+                  + 7.1482E-09     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.32528        Li[1+]-Li[1+]-F-F             
+                  + 3.8711E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 1.8881E-32     U[Dimer]-U[Dimer]-F-F         
+                  + 1.1585E-09     U[3+]-U[3+]-F-F               
+                  + 1.8353E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 3.5920E-18     U[CN=VI]-U[CN=VI]-F-F         
+                  + 5.5204E-19     U[CN=VII-U[CN=VII-F-F         
+                  + 0.17624        Li[1+]-Be[CN=IV-F-F           
+                  + 3.5480E-16     Li[1+]-U[Dimer]-F-F           
+                  + 1.2639E-17     Be[CN=IV-U[Dimer]-F-F         
+                  + 2.7893E-05     Li[1+]-U[3+]-F-F              
+                  + 1.2264E-06     Be[CN=IV-U[3+]-F-F            
+                  + 2.5561E-20     U[Dimer]-U[3+]-F-F            
+                  + 0.47437        Li[1+]-Be[Dimer-F-F           
+                  + 5.3310E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 2.9927E-17     U[Dimer]-Be[Dimer-F-F         
+                  + 8.4446E-06     U[3+]-Be[Dimer-F-F            
+                  + 2.1810E-08     Li[1+]-U[CN=VI]-F-F           
+                  + 6.8290E-11     Be[CN=IV-U[CN=VI]-F-F         
+                  + 5.2085E-25     U[Dimer]-U[CN=VI]-F-F         
+                  + 3.5150E-13     U[3+]-U[CN=VI]-F-F            
+                  + 4.7022E-10     Be[Dimer-U[CN=VI]-F-F         
+                  + 6.6545E-09     Li[1+]-U[CN=VII-F-F           
+                  + 2.6772E-11     Be[CN=IV-U[CN=VII-F-F         
+                  + 2.0419E-25     U[Dimer]-U[CN=VII-F-F         
+                  + 1.3780E-13     U[3+]-U[CN=VII-F-F            
+                  + 5.8370E-10     Be[Dimer-U[CN=VII-F-F         
+                  + 2.8163E-18     U[CN=VI]-U[CN=VII-F-F}        
+
+     + 0.9999 mol U_S3(s3)       
+
+ + 1.3936E-04 mol Be_S1(s)       
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =    1200.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 1.0000E+00 |  -8.730859E+04
+      F            | 1.2006E+01 |  -5.733957E+05
+      Be           | 3.0060E+00 |  -2.794790E+04
+      Li           | 5.9940E+00 |  -1.363566E+05
+
+  Integral Gibbs energy = -7.87283E+06 [J]
+  Functional norm       =  8.53181E-09 [unitless]
+
+  # of stable pure condensed phases =   2
+  # of stable solution phases       =   1
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
