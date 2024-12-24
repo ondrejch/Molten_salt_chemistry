@@ -1,0 +1,6 @@
+numpy
+pytest
+pytest-subtests
+setuptools
+matplotlib
+scipy
