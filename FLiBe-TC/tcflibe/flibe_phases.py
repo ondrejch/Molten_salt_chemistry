@@ -135,7 +135,7 @@ class PhaseAnalyzer:
         ax.pcolor(x, y, rgb)
         ax.axis([min(x), max(x), min(y), max(y)])
         fig.savefig(f'FLiBe_RGB.png')
-        fig.show()
+        # fig.show()
 
 
 if __name__ == '__main__':
@@ -144,6 +144,6 @@ if __name__ == '__main__':
     temps_k: str = '600:1000:10'  # 'from : to : stride'
     UF4_mol_pct: float = 5.0
     flibeph = PhaseAnalyzer(UF4_mol_pct=UF4_mol_pct, redoxes=redoxes, temps_k=temps_k)
-    # flibeph.run_redox_cases()
-    # flibeph.analyze_jsons()
+    flibeph.run_redox_cases()
+    flibeph.analyze_jsons()
     flibeph.plot_results()
