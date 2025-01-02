@@ -26,7 +26,7 @@ class PhaseAnalyzer:
     def run_redox_cases(self):
         """ Generates inputs and runs Thermochimica """
         for redox in self.redoxes:
-            self.TC.header = f'FLiBe-U for UF4 = {UF4_mol_pct:.3f} mol%, UF3_to_UF4 = {redox:.6f}'
+            self.TC.header = f'FLiBe-U for UF4 = {self.UF4_mol_pct:.3f} mol%, UF3_to_UF4 = {redox:.6f}'
             self.TC.temps_k = self.temps_k
             self.TC.elements = FLiBeU(self.UF4_mol_pct, redox)
             case_dir: str = f'FLiBe_redox_{redox:.5f}'
