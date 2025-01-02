@@ -17,6 +17,8 @@ ELEMENTS: list = ['neutron', 'h', 'he',
 
 def FLiBeU(uf4_mol_pct: float, uf3_to_uf4: float) -> dict[str, float]:
     """ FLiBe-U salt defined using UF4 mol% and UF3/UF4 ratio. """
+    if uf3_to_uf4 == 0.0:  # If the fluorine potential is exactly zero, TC goes nuts. TODO Investigate for a paper?
+        uf3_to_uf4 = 1e-6
     mU: float = uf4_mol_pct
     mLi: float = 2.0 / 3.0 * (100.0 - mU)  # 2 mol of Li : 1 mol of Be
     mBe: float = 2.0 / 3.0 * (100.0 - mU)  # 1 mol of Be
