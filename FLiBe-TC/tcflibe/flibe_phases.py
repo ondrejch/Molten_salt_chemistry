@@ -53,7 +53,7 @@ class PhaseAnalyzer:
                 solution: float = 0
                 solid: float = 0
                 if DEBUG > 2:
-                    print(f'FLiBe-U for UF4 = {UF4_mol_pct:.3f} mol%, UF3_to_UF4 = {redox:.6f}, T = {temp_k:.6f}')
+                    print(f'FLiBe-U for UF4 = {self.UF4_mol_pct:.3f} mol%, UF3_to_UF4 = {redox:.6f}, T = {temp_k:.6f}')
                 for phase_name, phase in temperature_case['solution phases'].items():
                     if float(phase['moles']) > 0.0:
                         if 'gas' in phase_name:
