@@ -42,7 +42,7 @@ class PhaseAnalyzer:
     def analyze_jsons(self):
         """ Analyses Thermochimica JSON outputs and produces JSON summary file """
         results: dict = {}  # Output data
-        for redox in redoxes:
+        for redox in self.redoxes:
             case_dir: str = f'FLiBe_redox_{redox:.5f}'
             results[redox] = {}
             with open(os.path.join(case_dir, self.TC.thermo_output_name), 'r') as f:
