@@ -54,11 +54,11 @@ class Thermochimica:
     def __init__(self):
         """ Thermochimica installation paths, modify according to your installation! """
         self.datafile_path: str = os.path.expanduser(
-            '~/git/001-thermochemistry/MSTDB-TC_V3.1_Fluorides_No_Func.dat')
+            '~/thermochimica/data/MSTDB-TC_V3.1_Fluorides_No_Func.dat')
         self.binary_path: str = os.path.expanduser(
-            '~/git/001-thermochemistry/thermochimica/bin/InputScriptMode')
+            '~/thermochimica/bin/InputScriptMode')
         self.output_path: str = os.path.expanduser(
-            '~/git/001-thermochemistry/thermochimica/outputs/thermoout.json')
+            '~/thermochimica/outputs/thermoout.json')
         assert os.path.isfile(self.datafile_path)
         assert os.path.isfile(self.binary_path)
         self.deck_name: str = 'my_tc.ti'  # Thermochimica input file name
