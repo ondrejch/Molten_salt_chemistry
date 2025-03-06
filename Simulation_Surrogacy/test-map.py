@@ -34,7 +34,7 @@ class ElementMapper:
           'ac', 'th', 'pa',  'u', 'np', 'pu', 'am', 'cm', 'bk', 'cf', 'es', 'fm', 'md', 'no', 'lr',
           'rf', 'db', 'sg', 'bh', 'hs', 'mt', 'ds', 'rg', 'cn', 'nh', 'fl', 'mc', 'lv', 'ts', 'og'
         ]
-        self.element_surrogacy_map: (None, dict) = None
+        self.element_surrogacy_map: (None, dict) = None  # Define for every child class
         self.missing_elements: (None, list) = None
 
     def get_missing_elements(self) -> list:
@@ -44,6 +44,7 @@ class ElementMapper:
             for me in me_list:
                 if me in known_mapping_elements:
                     assert ValueError(f'Mapping element {me} in target element {te} is already mapped!')
+                else:
                     known_mapping_elements.append(me)
         self.missing_elements = list(set(self.PERIOD_TABLE_ELEMENTS).difference(known_mapping_elements))
         return self.missing_elements
