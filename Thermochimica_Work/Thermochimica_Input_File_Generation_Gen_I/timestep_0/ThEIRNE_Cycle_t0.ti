@@ -1,0 +1,53 @@
+! Surrogate Vector Calculation for Time Step 0
+
+! Initialize variables:
+pressure          = 1
+temperature       = 900
+mass(44)           = 7.587837706857264e-19     !ru
+mass(2)           = 0.0     !he
+mass(3)           = 0.240836133479084     !li
+mass(4)           = 0.12042000526963716     !be
+mass(42)           = 1.1381756560285895e-18     !mo
+mass(54)           = 3.793918853428631e-19     !xe
+mass(36)           = 2.529279235619088e-19     !kr
+mass(17)           = 1.264639617809544e-19     !cl
+mass(9)           = 0.6073302978032722     !f
+mass(10)           = 0.0     !ne
+mass(11)           = 0.0     !na
+mass(38)           = 0.0     !sr
+mass(24)           = 1.0117116942476351e-18     !cr
+mass(43)           = 1.264639617809544e-19     !tc
+mass(18)           = 0.0     !ar
+mass(19)           = 0.0     !k
+mass(58)           = 1.3911035795904987e-18     !ce
+mass(26)           = 0.0     !fe
+mass(28)           = 1.264639617809544e-19     !ni
+mass(45)           = 3.793918853428632e-19     !rh
+mass(53)           = 3.793918853428631e-19     !i
+mass(37)           = 0.0     !rb
+mass(57)           = 1.264639617809544e-19     !la
+mass(40)           = 6.32319808904772e-19     !zr
+mass(46)           = 3.793918853428631e-19     !pd
+mass(55)           = 5.058558471238176e-19     !cs
+mass(56)           = 1.264639617809544e-19     !ba
+mass(60)           = 2.1498873502762247e-18     !nd
+mass(94)           = 6.32319808904772e-19     !pu
+mass(90)           = 0.025837656507142488     !th
+mass(92)           = 0.005575906940864228     !u
+temperature unit  = K
+pressure unit     = atm
+mass unit         = moles
+data file         = /home/bclayto4/thermochimica/data/MSTDB-TC_V3.1_Fluorides_No_Func.dat
+step together     = .FALSE.
+
+! Specify output and debug modes:
+print mode        = 1
+debug mode        = .FALSE.
+reinit            = .TRUE.
+
+! Additional Settings: 
+heat capacity     = .FALSE.
+write json        = .TRUE.
+reinitialization  = .FALSE.
+fuzzy             = .FALSE.
+gibbs min         = .FALSE.

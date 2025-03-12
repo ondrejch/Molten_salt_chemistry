@@ -1,0 +1,53 @@
+! Surrogate Vector Calculation for Time Step 1
+
+! Initialize variables:
+pressure          = 1
+temperature       = 900
+mass(44)           = 3.918231860048472e-07     !ru
+mass(2)           = 9.848594539835682e-07     !he
+mass(3)           = 0.2408355002067122     !li
+mass(4)           = 0.1204202839529617     !be
+mass(42)           = 3.961644541093224e-07     !mo
+mass(54)           = 3.429357249207695e-10     !xe
+mass(36)           = 7.873784249114804e-10     !kr
+mass(17)           = 7.614296317782197e-08     !cl
+mass(9)           = 0.6073297982500305     !f
+mass(10)           = 1.0201546955467203e-07     !ne
+mass(11)           = 1.602873135208629e-26     !na
+mass(38)           = 4.423873991108652e-07     !sr
+mass(24)           = 5.084752209796156e-06     !cr
+mass(43)           = 1.3945317917096221e-09     !tc
+mass(18)           = 2.313390009708087e-121     !ar
+mass(19)           = 8.164465272878376e-24     !k
+mass(58)           = 1.6400110696683384e-06     !ce
+mass(26)           = 1.877754671211711e-20     !fe
+mass(28)           = 7.158894391914213e-11     !ni
+mass(45)           = 3.778150905517694e-10     !rh
+mass(53)           = 3.5387890557768567e-07     !i
+mass(37)           = 3.015864080484283e-09     !rb
+mass(57)           = 8.659642759831544e-07     !la
+mass(40)           = 2.7842544902370566e-06     !zr
+mass(46)           = 3.471480696478575e-10     !pd
+mass(55)           = 7.877376919033293e-08     !cs
+mass(56)           = 4.5106855793149297e-07     !ba
+mass(60)           = 1.1503513614421396e-06     !nd
+mass(94)           = 1.086322882854312e-06     !pu
+mass(90)           = 0.025832063519426594     !th
+mass(92)           = 0.005566458963158171     !u
+temperature unit  = K
+pressure unit     = atm
+mass unit         = moles
+data file         = /home/bclayto4/thermochimica/data/MSTDB-TC_V3.1_Fluorides_No_Func.dat
+step together     = .FALSE.
+
+! Specify output and debug modes:
+print mode        = 1
+debug mode        = .FALSE.
+reinit            = .TRUE.
+
+! Additional Settings: 
+heat capacity     = .FALSE.
+write json        = .TRUE.
+reinitialization  = .FALSE.
+fuzzy             = .FALSE.
+gibbs min         = .FALSE.

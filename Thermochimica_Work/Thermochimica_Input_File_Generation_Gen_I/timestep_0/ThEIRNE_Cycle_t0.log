@@ -1,0 +1,93 @@
+STDOUT:
+ WARNING: Element Cl  not in database and therefore omitted from calculation
+
+ ===========================================================
+ |                  THERMOCHIMICA RESULTS                  |
+ ===========================================================
+
+      0.62378 mol MSFL           
+    Cation fractions:
+                  { 0.69605        Li[1+]                        
+                  + 8.3356E-02     Be[CN=IV                      
+                  + 2.5344E-03     U[Dimer]                      
+                  + 7.4675E-02     Th[4+]                        
+                  + 2.8903E-07     U[3+]                         
+                  + 0.13234        Be[Dimer                      
+                  + 7.4440E-03     U[CN=VI]                      
+                  + 3.6020E-03     U[CN=VII }                    
+    Anion fractions:
+                  { 1.00000        F        }                    
+
+       0.34600 Moles of pairs
+    Pair fractions:
+                  { 0.69605        LiF                           
+                  + 8.3356E-02     Be[CN=IV]F2                   
+                  + 2.5344E-03     U[Dimer]F8                    
+                  + 7.4675E-02     ThF4                          
+                  + 2.8903E-07     UF3                           
+                  + 0.13234        Be[Dimer]F4                   
+                  + 3.6020E-03     U[CN=VII]F4                   
+                  + 7.4440E-03     U[CN=VI]F4  }                 
+
+    Quadruplet fractions:
+                  { 0.16851        Li[1+]-Li[1+]-F-F             
+                  + 1.7170E-04     Be[CN=IV-Be[CN=IV-F-F         
+                  + 1.1251E-05     U[Dimer]-U[Dimer]-F-F         
+                  + 2.2852E-02     Th[4+]-Th[4+]-F-F             
+                  + 7.2588E-13     U[3+]-U[3+]-F-F               
+                  + 2.2727E-02     Be[Dimer-Be[Dimer-F-F         
+                  + 3.1090E-06     U[CN=VI]-U[CN=VI]-F-F         
+                  + 9.2723E-07     U[CN=VII-U[CN=VII-F-F         
+                  + 0.17876        Li[1+]-Be[CN=IV-F-F           
+                  + 6.2337E-03     Li[1+]-U[Dimer]-F-F           
+                  + 3.0938E-04     Be[CN=IV-U[Dimer]-F-F         
+                  + 0.15387        Li[1+]-Th[4+]-F-F             
+                  + 1.5381E-02     Be[CN=IV-Th[4+]-F-F           
+                  + 1.0141E-03     U[Dimer]-Th[4+]-F-F           
+                  + 4.1972E-07     Li[1+]-U[3+]-F-F              
+                  + 2.1845E-08     Be[CN=IV-U[3+]-F-F            
+                  + 1.6043E-08     U[Dimer]-U[3+]-F-F            
+                  + 2.2175E-07     Th[4+]-U[3+]-F-F              
+                  + 0.35882        Li[1+]-Be[Dimer-F-F           
+                  + 3.9508E-03     Be[CN=IV-Be[Dimer-F-F         
+                  + 8.3688E-04     U[Dimer]-Be[Dimer-F-F         
+                  + 2.9786E-02     Th[4+]-Be[Dimer-F-F           
+                  + 2.5132E-07     U[3+]-Be[Dimer-F-F            
+                  + 2.3733E-02     Li[1+]-U[CN=VI]-F-F           
+                  + 3.8926E-05     Be[CN=IV-U[CN=VI]-F-F         
+                  + 1.1829E-05     U[Dimer]-U[CN=VI]-F-F         
+                  + 5.3309E-04     Th[4+]-U[CN=VI]-F-F           
+                  + 9.8423E-09     U[3+]-U[CN=VI]-F-F            
+                  + 4.4785E-04     Be[Dimer-U[CN=VI]-F-F         
+                  + 8.5834E-03     Li[1+]-U[CN=VII-F-F           
+                  + 2.1258E-05     Be[CN=IV-U[CN=VII-F-F         
+                  + 6.4599E-06     U[Dimer]-U[CN=VII-F-F         
+                  + 2.2344E-03     Th[4+]-U[CN=VII-F-F           
+                  + 5.3750E-09     U[3+]-U[CN=VII-F-F            
+                  + 1.1372E-03     Be[Dimer-U[CN=VII-F-F         
+                  + 3.3957E-06     U[CN=VI]-U[CN=VII-F-F}        
+
+ ===========================================================
+ |                    System properties                    |
+ ===========================================================
+
+  Temperature =     900.00 [K]
+  Pressure    =     1.0000 [atm]
+
+  System Component | Mass [mol] | Chemical potential [J/mol]
+ ------------------|------------|---------------------------
+      U            | 5.5759E-03 |  -5.996980E+05
+      Th           | 2.5838E-02 |  -7.645263E+05
+      F            | 6.0733E-01 |  -3.794132E+05
+      Be           | 1.2042E-01 |  -3.580816E+05
+      Li           | 2.4084E-01 |  -2.969553E+05
+
+  Integral Gibbs energy = -3.68164E+05 [J]
+
+ ===========================================================
+
+
+ DEBUG: Successful exit.
+
+
+STDERR:
