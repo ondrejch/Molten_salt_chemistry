@@ -1,0 +1,124 @@
+AtomicNumber,Symbol,Name,AtomicMass,CPKHexColor,ElectronConfiguration,Electronegativity,AtomicRadius,IonizationEnergy,ElectronAffinity,OxidationStates,StandardState,MeltingPoint,BoilingPoint,Density,GroupBlock,YearDiscovered,Florides ,Version Compatability ,Abundance,Impact,Risk,Key,Half-Reaction,Standard Potential,Surrogate
+1,H,Hydrogen,1.008,FFFFFF,1s1,2.2,120,13.598,0.754,"+1, -1",Gas,13.81,20.28,0.00008988,Nonmetal,1766,HF,,,,,,,,
+2,He,Helium,4.0026,D9FFFF,1s2,,140,24.587,,0,Gas,0.95,4.22,0.0001785,Noble gas,1868,,V3,,,,,,,He
+3,Li,Lithium,7,CC80FF,[He]2s1,0.98,182,5.392,0.618,1,Solid,453.65,1615,0.534,Alkali metal,1817,LiF,"V3, V2",,,,1+,Li+ + e <---> Li,-3.0401,Li
+4,Be,Beryllium,9.012183,C2FF00,[He]2s2,1.57,153,9.323,,2,Solid,1560,2744,1.85,Alkaline earth metal,1798,BeF2,"V3, V2",,,,2+,Be2+ + 2 e <---> Be,-1.847,Be
+5,B,Boron,10.81,FFB5B5,[He]2s2 2p1,2.04,192,8.298,0.277,3,Solid,2348,4273,2.37,Metalloid,1808,BF3,,,,,BH,"H2 BO3 - + H2 O + 3 e <---> B + 4 OH-, H3
+BO3
+ + 3 H+ + 3 e <---> B + 3 H2
+O","-1.79, -0.8698",
+6,C,Carbon,12.011,909090,[He]2s2 2p2,2.55,170,11.26,1.263,"+4, +2, -4",Solid,3823,4098,2.267,Nonmetal,Ancient,"CF4, C2F6",,,,,,,,
+7,N,Nitrogen,14.007,3050F8,[He] 2s2 2p3,3.04,155,14.534,,"+5, +4, +3, +2, +1, -1, -2, -3",Gas,63.15,77.36,0.0012506,Nonmetal,1772,"NF3, N2F4, NF5",,,,,,,,
+8,O,Oxygen,15.999,FF0D0D,[He]2s2 2p4,3.44,152,13.618,1.461,-2,Gas,54.36,90.2,0.001429,Nonmetal,1774,OF2,,,,,,,,
+9,F,Fluorine,18.99840316,9.00E+51,[He]2s2 2p5,3.98,135,17.423,3.339,-1,Gas,53.53,85.03,0.001696,Halogen,1670,,"V3, V2",,,,D,F2 + 2 e <---> 2 F,2.866,F
+10,Ne,Neon,20.18,B3E3F5,[He]2s2 2p6,,154,21.565,,0,Gas,24.56,27.07,0.0008999,Noble gas,1898,,V3,,,,,,,Ne
+11,Na,Sodium,22.9897693,AB5CF2,[Ne]3s1,0.93,227,5.139,0.548,1,Solid,370.95,1156,0.97,Alkali metal,1807,NaF,"V3, V2",,,,1+,Na+ + e <---> Na,-2.71,Na
+12,Mg,Magnesium,24.305,8AFF00,[Ne]3s2,1.31,173,7.646,,2,Solid,923,1363,1.74,Alkaline earth metal,1808,MgF2,V2,,,,"1+, 2+","Mg+ + e <---> Mg, Mg2+ + 2 e <---> Mg","-2.70, -2.372",
+13,Al,Aluminum,26.981538,BFA6A6,[Ne]3s2 3p1,1.61,184,5.986,0.441,3,Solid,933.437,2792,2.7,Post-transition metal,Ancient,AlF3,,,,,"3+, F","Al3+ + 3 e <---> Al, AlF6
+3- + 3 e <---> Al + 6 F-","-1.662, -2.069",
+14,Si,Silicon,28.085,F0C8A0,[Ne]3s2 3p2,1.9,210,8.152,1.385,"+4, +2, -4",Solid,1687,3538,2.3296,Metalloid,1854,SiF4,,,,,,,,
+15,P,Phosphorus,30.973762,FF8000,[Ne]3s2 3p3,2.19,180,10.487,0.746,"+5, +3, -3",Solid,317.3,553.65,1.82,Nonmetal,1669,"PF3, PF5",,,,,,,,
+16,S,Sulfur,32.07,FFFF30,[Ne]3s2 3p4,2.58,180,10.36,2.077,"+6, +4, -2",Solid,388.36,717.75,2.067,Nonmetal,Ancient,"SF4, SF6",,,,,,,,
+17,Cl,Chlorine,35.45,1FF01F,[Ne]3s2 3p5,3.16,175,12.968,3.617,"+7, +5, +1, -1",Gas,171.65,239.11,0.003214,Halogen,1774,"ClF, ClF3, ClF5","V3, V2",,,,D,Cl2 (g) + 2 e <---> 2 Cl-,1.35827,Cl
+18,Ar,Argon,39.9,80D1E3,[Ne]3s2 3p6,,188,15.76,,0,Gas,83.8,87.3,0.0017837,Noble gas,1894,,V3,,,,,,,Ar
+19,K,Potassium,39.0983,8F40D4,[Ar]4s1,0.82,275,4.341,0.501,1,Solid,336.53,1032,0.89,Alkali metal,1807,KF,"V3, V2",,,,1+,K+ + e <---> K,-2.931,K
+20,Ca,Calcium,40.08,3DFF00,[Ar]4s2,1,231,6.113,,2,Solid,1115,1757,1.54,Alkaline earth metal,Ancient,CaF2,V2,,,,"1+, 2+","Ca+ + e <---> Ca, Ca2+ + 2 e <---> Ca","-3.80, -2.868",
+21,Sc,Scandium,44.95591,E6E6E6,[Ar]4s2 3d1,1.36,211,6.561,0.188,3,Solid,1814,3109,2.99,Transition metal,1879,ScF3,,,,,3+,Sc3+ + 3 e <---> Sc,-2.077,
+22,Ti,Titanium,47.867,BFC2C7,[Ar]4s2 3d2,1.54,187,6.828,0.079,"+4, +3, +2",Solid,1941,3560,4.5,Transition metal,1791,"TiF3, TiF4",,,,,"2+, 3/2+, 3+","Ti2+ + 2 e <---> Ti, Ti3+ + e <---> Ti2+, Ti3+ + 3 e <---> Ti","-1.630, -0.9, -1.37",
+23,V,Vanadium,50.9415,A6A6AB,[Ar]4s2 3d3,1.63,179,6.746,0.525,"+5, +4, +3, +2",Solid,2183,3680,6,Transition metal,1801,"VF2, VF3, VF4, VF5 ",,,,,"2+, 3/2+","V2+ + 2 e <---> V,  V3+ + e <---> V2+","-1.175, -0.255",
+24,Cr,Chromium,51.996,8A99C7,[Ar]3d5 4s1,1.66,189,6.767,0.666,"+6, +3, +2",Solid,2180,2944,7.15,Transition metal,1797,"CrF2, CrF3, CrF4, CrF5, CrF6","V3, V2",,,,"2+, 3/2+, 3+","Cr2+ + 2 e <---> Cr, Cr3+ + e <---> Cr2+ , Cr3+ + 3 e <---> Cr","-0.913, -0.407, -0.744",Cr
+25,Mn,Manganese,54.93804,9C7AC7,[Ar]4s2 3d5,1.55,197,7.434,,"+7, +4, +3, +2",Solid,1519,2334,7.3,Transition metal,1774,"MnF2, MnF3, MnF4",,,,,"2+, 3/2+","Mn2+ + 2 e <---> Mn, Mn3+ + e <---> Mn2+","-1.185, 1.5415",
+26,Fe,Iron,55.84,E06633,[Ar]4s2 3d6,1.83,194,7.902,0.163,"+3, +2",Solid,1811,3134,7.874,Transition metal,Ancient,"FeF2, FeF3","V3, V2",,,,"2+, 3+, 3/2+","Fe2+ + 2 e <---> Fe, Fe3+ + 3 e <---> Fe, Fe3+ + e <---> Fe2+","-0.447, -0,037, 0.771",Fe
+27,Co,Cobalt,58.93319,F090A0,[Ar]4s2 3d7,1.88,192,7.881,0.661,"+3, +2",Solid,1768,3200,8.86,Transition metal,1735,"CoF2, CoF3",,,,,"2+,  3/2+","Co2+ + 2 e <---> Co,  Co3+ + e <---> Co2+","-0.28, 1.92",
+28,Ni,Nickel,58.693,50D050,[Ar]4s2 3d8,1.91,163,7.64,1.156,"+3, +2",Solid,1728,3186,8.912,Transition metal,1751,"NiF2, NiF3","V3, V2",,,,2+,Ni2+ + 2 e <---> Ni,-0.257,Ni
+29,Cu,Copper,63.55,C88033,[Ar]4s1 3d10,1.9,140,7.726,1.228,"+2, +1",Solid,1357.77,2835,8.933,Transition metal,Ancient,"CuF, CuF2",,,,,"1+, 2/1+, 2+, 3/2+","Cu+ + e <---> Cu, Cu2+ + e <---> Cu+,  Cu2+ + 2 e <---> Cu, Cu3+ + e <---> Cu2+","0.421, 0.153, 0.3419, 2.4",
+30,Zn,Zinc,65.4,7D80B0,[Ar]4s2 3d10,1.65,139,9.394,,2,Solid,692.68,1180,7.134,Transition metal,1746,ZnF2,,,,,2+,Zn2+ + 2 e <---> Zn,-0.7618,
+31,Ga,Gallium,69.723,C28F8F,[Ar]4s2 3d10 4p1,1.81,187,5.999,0.3,3,Solid,302.91,2477,5.91,Post-transition metal,1875,GaF3,,,,,"3+, 1+","Ga3+ + 3 e <---> Ga, Ga+ + e <---> Ga","-0.549, -0.2",
+32,Ge,Germanium,72.63,668F8F,[Ar]4s2 3d10 4p2,2.01,211,7.9,1.35,"+4, +2",Solid,1211.4,3106,5.323,Metalloid,1886,"GeF2, Ge,F4",,,,,"2+, 4+, 4/2+","Ge2+ + 2 e <---> Ge, Ge4+ + 4 e <---> Ge, Ge4+ + 2 e <---> Ge2+","0.24, 0.124, 0.00",
+33,As,Arsenic,74.92159,BD80E3,[Ar]4s2 3d10 4p3,2.18,185,9.815,0.81,"+5, +3, -3",Solid,1090,887,5.776,Metalloid,Ancient,"AsF3, AsF5",,,,,,,,
+34,Se,Selenium,78.97,FFA100,[Ar]4s2 3d10 4p4,2.55,190,9.752,2.021,"+6, +4, -2",Solid,493.65,958,4.809,Nonmetal,1817,"SeF4, SeF6",,,,,Q,Se + 2 e <---> Se2-,-0.924,
+35,Br,Bromine,79.9,A62929,[Ar]4s2 3d10 4p5,2.96,183,11.814,3.365,"+5, +1, -1",Liquid,265.95,331.95,3.11,Halogen,1826,"BrF, BrF3, BrF5",,,,,D,Br2 (aq) + 2 e <---> 2 Br-,1.0873,
+36,Kr,Krypton,83.8,5CB8D1,[Ar]4s2 3d10 4p6,3,202,14,,0,Gas,115.79,119.93,0.003733,Noble gas,1898,KrF,V3,,,,,,,Kr 
+37,Rb,Rubidium,85.468,702EB0,[Kr]5s1,0.82,303,4.177,0.468,1,Solid,312.46,961,1.53,Alkali metal,1861,RbF,"V3, V2",,,,1+,Rb+ + e <---> Rb,-2.98,Rb
+38,Sr,Strontium,87.62,00FF00,[Kr]5s2,0.95,249,5.695,,2,Solid,1050,1655,2.64,Alkaline earth metal,1790,SrF2,"V3, V2",,,,"1+, 2+","Sr+ + e <---> Sr, Sr2+ + 2 e <---> Sr","-4.10, -2.899",Sr
+39,Y,Yttrium,88.90584,94FFFF,[Kr]5s2 4d1,1.22,219,6.217,0.307,3,Solid,1795,3618,4.47,Transition metal,1794,YF3,"V3, V2",,,,3+,Y3+ + 3 e <---> Y,-2.372,Y3
+40,Zr,Zirconium,91.22,94E0E0,[Kr]5s2 4d2,1.33,186,6.634,0.426,4,Solid,2128,4682,6.52,Transition metal,1789,ZrF4,"V3, V2",,,,4+,Zr4+ + 4 e <---> Zr,-1.45,Zr
+41,Nb,Niobium,92.90637,73C2C9,[Kr]5s1 4d4,1.6,207,6.759,0.893,"+5, +3",Solid,2750,5017,8.57,Transition metal,1801,"NbF3, NbF5",,,,,3+,Nb3+ + 3 e <---> Nb,-1.099,
+42,Mo,Molybdenum,95.95,54B5B5,[Kr]5s1 4d5,2.16,209,7.092,0.746,6,Solid,2896,4912,10.2,Transition metal,1778,"MoF4, MoF5, MoF6",V3,,,,3+,Mo3+ + 3 e <---> Mo,-0.2,Mo
+43,Tc,Technetium,96.90636,3B9E9E,[Kr]5s2 4d5,1.9,209,7.28,0.55,"+7, +6, +4",Solid,2430,4538,11,Transition metal,1937,"TcF5, TcF6",V3,,,,"2+, 3/2+","Tc2+ + 2 e <---> Tc, Tc3+ + e <---> Tc2+","0.4, 0,3",Tc
+44,Ru,Ruthenium,101.1,248F8F,[Kr]5s1 4d7,2.2,207,7.361,1.05,3,Solid,2607,4423,12.1,Transition metal,1827,"RuF3, RuF4, RuF5, RuF6",V3,,,,"2+, 3/2+","Ru2+ + 2 e <---> Ru, Ru3+ + e <---> Ru2+","0.455, 0.2487",Ru
+45,Rh,Rhodium,102.9055,0A7D8C,[Kr]5s1 4d8,2.28,195,7.459,1.137,3,Solid,2237,3968,12.4,Transition metal,1803,"RhF3, RhF4, RhF5, RhF6",V3,,,,"1+, 3+","Rh+ + e <---> Rh, Rh3+ + 3 e <---> Rh","0.6, 0.758",Rh
+46,Pd,Palladium,106.42,6985,[Kr]4d10,2.2,202,8.337,0.557,"+3, +2",Solid,1828.05,3236,12,Transition metal,1803,"PdF2, PdF4",V3,,,,2+,Pd2+ + 2 e <---> Pd,0.951,Pd
+47,Ag,Silver,107.868,C0C0C0,[Kr]5s1 4d10,1.93,172,7.576,1.302,1,Solid,1234.93,2435,10.501,Transition metal,Ancient,"AgF, AgF2",,,,,1+,"Ag+ + e <---> Ag, Ag2+ + e <---> Ag+","0.7996, 1.980",
+48,Cd,Cadmium,112.41,FFD98F,[Kr]5s2 4d10,1.69,158,8.994,,2,Solid,594.22,1040,8.69,Transition metal,1817,CdF2,,,,,2+,Cd2+ + 2 e <---> Cd,-0.403,
+49,In,Indium,114.818,A67573,[Kr]5s2 4d10 5p1,1.78,193,5.786,0.3,3,Solid,429.75,2345,7.31,Post-transition metal,1863,InF3,,,,,"1+, 2+, 3/2+, 3/1+, 3+","In+ + e <---> In, In2+ + e <---> In, In3+ + e <---> In2+, In3+ + 2 e <---> In+, In3+ + 3 e <---> In","-0.14, -0.40, -0.49, -0.443, -0.3382",
+50,Sn,Tin,118.71,668080,[Kr]5s2 4d10 5p2,1.96,217,7.344,1.2,"+4, +2",Solid,505.08,2875,7.287,Post-transition metal,Ancient,"SnF2, SnF4",,,,,"2+, 4/2+","Sn2+ + 2 e <---> Sn, Sn4+ + 2 e <---> Sn2+ ","-0.1375, 0.151",
+51,Sb,Antimony,121.76,9E63B5,[Kr]5s2 4d10 5p3,2.05,206,8.64,1.07,"+5, +3, -3",Solid,903.78,1860,6.685,Metalloid,Ancient,"SbF3, SbF5",,,,,,,,
+52,Te,Tellurium,127.6,D47A00,[Kr]5s2 4d10 5p4,2.1,206,9.01,1.971,"+6, +4, -2",Solid,722.66,1261,6.232,Metalloid,1782,"TeF4, TeF6",,,,,Q,Te + 2 e <---> Te2-,-1.143,
+53,I,Iodine,126.9045,940094,[Kr]5s2 4d10 5p5,2.66,198,10.451,3.059,"+7, +5, +1, -1",Solid,386.85,457.55,4.93,Halogen,1811,"IF, IF3, IF5, IF7","V3, V2",,,,"D, Q","I2 + 2 e <---> 2 I-, 3I
+- + 2 e <---> 3 I-","0.5355, 0.536",I
+54,Xe,Xenon,131.29,429EB0,[Kr]5s2 4d10 5p6,2.6,216,12.13,,0,Gas,161.36,165.03,0.005887,Noble gas,1898,"XeF2, XeF4, XeF6",V3,,,,,,,Xe
+55,Cs,Cesium,132.905452,57178F,[Xe]6s1,0.79,343,3.894,0.472,1,Solid,301.59,944,1.93,Alkali metal,1860,CsF,"V3, V2",,,,1+,Cs+ + e <---> Cs,-3.206,Cs
+56,Ba,Barium,137.33,00C900,[Xe]6s2,0.89,268,5.212,,2,Solid,1000,2170,3.62,Alkaline earth metal,1808,BaF2,"V3, V2",,,,2+,Ba2+ + 2 e <---> Ba,-2.912,Ba
+57,La,Lanthanum,138.9055,70D4FF,[Xe]6s2 5d1,1.1,240,5.577,0.5,3,Solid,1191,3737,6.15,Lanthanide,1839,LaF3,"V3, V2",,,,3+,La3+ + 3 e <---> La,-2.379,La
+58,Ce,Cerium,140.116,FFFFC7,[Xe]6s2 4f1 5d1,1.12,235,5.539,0.5,"+4, +3",Solid,1071,3697,6.77,Lanthanide,1803,"CeF3, CeF4","V3, V2",,,,3+,Ce3+ + 3 e <---> Ce,-2.336,Ce
+59,Pr,Praseodymium,140.90766,D9FFC7,[Xe]6s2 4f3,1.13,239,5.464,,3,Solid,1204,3793,6.77,Lanthanide,1885,PrF3,,,,,"4/3+, 2+, 3+, 3/2+","Pr4+ + e <---> Pr3+, Pr2+ + 2 e <---> Pr, Pr3+ + 3 e <---> Pr, Pr3+ + e <---> Pr2+","3.2, -2.0, -2.353, -3.1",
+60,Nd,Neodymium,144.24,C7FFC7,[Xe]6s2 4f4,1.14,229,5.525,,3,Solid,1294,3347,7.01,Lanthanide,1885,NdF3,"V3, V2",,,,"3+, 2+, 3/2+","Nd3+ + 3 e <---> Nd, Nd2+ + 2 e <---> Nd, Nd3+ + e <---> Nd2+","-2.1, -2.7, -0.257",Nd
+61,Pm,Promethium,144.91276,A3FFC7,[Xe]6s2 4f5,,236,5.55,,3,Solid,1315,3273,7.26,Lanthanide,1945,PmF3,,,,,"2+, 3+, 3/2+","Pm2+ + 2 e <---> Pm, Pm3+ + 3 e <---> Pm, Pm3+ + e <---> Pm2+","-2.2, -2.30, -2.6",
+62,Sm,Samarium,150.4,8FFFC7,[Xe]6s2 4f6,1.17,229,5.644,,"+3, +2",Solid,1347,2067,7.52,Lanthanide,1879,"SmF2, SmF3",,,,,"3/2+, 3+, 2+","Sm3+ + e <---> Sm2+ , Sm3+ + 3 e <---> Sm, Sm2+ + 2 e <---> Sm","-1.55, -2.304, -2.68",
+63,Eu,Europium,151.964,61FFC7,[Xe]6s2 4f7,,233,5.67,,"+3, +2",Solid,1095,1802,5.24,Lanthanide,1901,"EuF2, EuF3",,,,,"2+, 3+, 3/2+","Eu2+ + 2 e <---> Eu, Eu3+ + 3 e <---> Eu, Eu3+ + e <---> Eu2+","-2.812, -1.991, -0.36",
+64,Gd,Gadolinium,157.25,45FFC7,[Xe]6s2 4f7 5d1,1.2,237,6.15,,3,Solid,1586,3546,7.9,Lanthanide,1880,GdF3,,,,,3+,Gd3+ + 3 e <---> Gd,-2.279,
+65,Tb,Terbium,158.92535,30FFC7,[Xe]6s2 4f9,,221,5.864,,3,Solid,1629,3503,8.23,Lanthanide,1843,TbF3,,,,,"4/3+, 3+","Tb4+ + e <---> Tb3+, Tb3+ + 3 e <---> Tb","3.1, -2.28",
+66,Dy,Dysprosium,162.5,1FFFC7,[Xe]6s2 4f10,1.22,229,5.939,,3,Solid,1685,2840,8.55,Lanthanide,1886,DyF3,,,,,"2+, 3+, 3/2+","Dy2+ + 2 e <---> Dy, Dy3+ + 3 e <---> Dy, Dy3+ + e <---> Dy2+","-2.2, -2.295, -2,6",
+67,Ho,Holmium,164.93033,00FF9C,[Xe]6s2 4f11,1.23,216,6.022,,3,Solid,1747,2973,8.8,Lanthanide,1878,HoF3,,,,,"2+, 3+, 3/2+","Ho2+ + 2 e <---> Ho, Ho3+ + 3 e <---> Ho, Ho3+ + e <---> Ho2+","-2.1, -2.33, -2.8",
+68,Er,Erbium,167.26,,[Xe]6s2 4f12,1.24,235,6.108,,3,Solid,1802,3141,9.07,Lanthanide,1843,ErF3,,,,,"2+, 3+, 3/2+","Er2+ + 2 e <---> Er, Er3+ + 3 e <---> E, Er3+ + e <---> Er2+","-2.0, -2.331, -3.0",
+69,Tm,Thulium,168.93422,00D452,[Xe]6s2 4f13,1.25,227,6.184,,3,Solid,1818,2223,9.32,Lanthanide,1879,TmF3,,,,,"3/2+ 3+, 2+","Tm3+ + e <---> Tm2+, Tm3+ + 3 e <---> Tm, Tm2+ + 2 e <---> Tm","-2.2, -2319, -2.4",
+70,Yb,Ytterbium,173.05,00BF38,[Xe]6s2 4f14,,242,6.254,,"+3, +2",Solid,1092,1469,6.9,Lanthanide,1878,"YbF2, YbF3",,,,,"3/2+, 3+, 2+","Yb3+ + e <---> Yb2+, Yb3+ + 3 e <---> Yb, Yb2+ + 2 e <---> Yb","-1.05, -2.19, -2.76",
+71,Lu,Lutetium,174.9667,00AB24,[Xe]6s2 4f14 5d1,1.27,221,5.426,,3,Solid,1936,3675,9.84,Lanthanide,1907,LuF3,,,,,3+,Lu3+ + 3 e <---> Lu,-2.28,
+72,Hf,Hafnium,178.49,4DC2FF,[Xe]6s2 4f14 5d2,1.3,212,6.825,,4,Solid,2506,4876,13.3,Transition metal,1923,HfF4,,,,,4+,Hf4+ + 4 e <---> Hf,-1.55,
+73,Ta,Tantalum,180.9479,4DA6FF,[Xe]6s2 4f14 5d3,1.5,217,7.89,0.322,5,Solid,3290,5731,16.4,Transition metal,1802,TaF5,,,,,3+,Ta3+ + 3 e <---> Ta,-0.6,
+74,W,Tungsten,183.84,2194D6,[Xe]6s2 4f14 5d4,2.36,210,7.98,0.815,6,Solid,3695,5828,19.3,Transition metal,1783,"WF4, WF4, WF6",,,,,3+,W3+ + 3 e <---> W,0.1,
+75,Re,Rhenium,186.207,267DAB,[Xe]6s2 4f14 5d5,1.9,217,7.88,0.15,"+7, +6, +4",Solid,3459,5869,20.8,Transition metal,1925,"ReF4, ReF5, ReF6, ReF7",,,,,3+,Re3+ + 3 e <---> Re,0.3,
+76,Os,Osmium,190.2,266696,[Xe]6s2 4f14 5d6,2.2,216,8.7,1.1,"+4, +3",Solid,3306,5285,22.57,Transition metal,1803,"OsF4, OsF5, OsF6, OsF8",,,,,,,,
+77,Ir,Iridium,192.22,175487,[Xe]6s2 4f14 5d7,2.2,202,9.1,1.565,"+4, +3",Solid,2719,4701,22.42,Transition metal,1803,"IrF3, IrF4, IrF5, IrF6",,,,,3+,Ir3+ + 3 e <---> Ir,1.156,
+78,Pt,Platinum,195.08,D0D0E0,[Xe]6s1 4f14 5d9,2.28,209,9,2.128,"+4, +2",Solid,2041.55,4098,21.46,Transition metal,1735,"PtF4, PtF6",,,,,2+,Pt2+ + 2 e <---> Pt,1.18,
+79,Au,Gold,196.96657,FFD123,[Xe]6s1 4f14 5d10,2.54,166,9.226,2.309,"+3, +1",Solid,1337.33,3129,19.282,Transition metal,Ancient,"AuF3, AuF5",,,,,"1+, 3/1+, 3+, 2/1+","Au+ + e <---> Au, Au3+ + 2 e <---> Au+, Au3+ + 3 e <---> Au, Au2+ + e - <---> Au+","1.692, 1.401, 1.498, 1.8",
+80,Hg,Mercury,200.59,B8B8D0,[Xe]6s2 4f14 5d10,2,209,10.438,,"+2, +1",Liquid,234.32,629.88,13.5336,Transition metal,Ancient,HgF2,,,,,2+,Hg2+ + 2 e <---> Hg,0.851,
+81,Tl,Thallium,204.383,A6544D,[Xe]6s2 4f14 5d10 6p1,1.62,196,6.108,0.2,"+3, +1",Solid,577,1746,11.8,Post-transition metal,1861,"TlF, TlF3",,,,,1+,Tl+ + e <---> Tl,-0.336,
+82,Pb,Lead,207,575961,[Xe]6s2 4f14 5d10 6p2,2.33,202,7.417,0.36,"+4, +2",Solid,600.61,2022,11.342,Post-transition metal,Ancient,"PbF2, PbF4",,,,,2+,Pb2+ + 2 e <---> Pb,-0.1262,
+83,Bi,Bismuth,208.9804,9E4FB5,[Xe]6s2 4f14 5d10 6p3,2.02,207,7.289,0.946,"+5, +3",Solid,544.55,1837,9.807,Post-transition metal,1753,"BiF3, BiF5",,,,,"1+, 3+, 3/1+","Bi+ + e <---> Bi, Bi3+ + 3 e <---> Bi, Bi3+ + 2 e <---> Bi+ ","0.5, 0.308, 0.2",
+84,Po,Polonium,208.98243,AB5C00,[Xe]6s2 4f14 5d10 6p4,2,197,8.417,1.9,"+4, +2",Solid,527,1235,9.32,Metalloid,1898,"PoF2, PoF4",,,,,"4/2+, 4+","Po4+ + 2 e <---> Po2+, Po4+ + 4 e <---> Po","0.9, 0.76",
+85,At,Astatine,209.98715,754F45,[Xe]6s2 4f14 5d10 6p5,2.2,202,9.5,2.8,"7, 5, 3, 1, -1",Solid,575,,7,Halogen,1940,"AtF, AtF3, AtF5, AtF7",,,,,Q,At2 + 2 e <---> 2 At-,0.3,
+86,Rn,Radon,222.01758,428296,[Xe]6s2 4f14 5d10 6p6,,220,10.745,,0,Gas,202,211.45,0.00973,Noble gas,1900,,,,,,,,,
+87,Fr,Francium,223.01973,420066,[Rn]7s1,0.7,348,3.9,0.47,1,Solid,300,,,Alkali metal,1939,FrF,,,,,1+,Fr+ + e <---> Fr,-2.9,
+88,Ra,Radium,226.02541,007D00,[Rn]7s2,0.9,283,5.279,,2,Solid,973,1413,5,Alkaline earth metal,1898,RaF2,,,,,2+,Ra2+ + 2 e <---> Ra,-2.8,
+89,Ac,Actinium,227.02775,70ABFA,[Rn]7s2 6d1,1.1,260,5.17,,3,Solid,1324,3471,10.07,Actinide,1899,AcF3,,,,,3+,Ac3+ + 3 e <---> Ac,-2.2,
+90,Th,Thorium,232.038,00BAFF,[Rn]7s2 6d2,1.3,237,6.08,,4,Solid,2023,5061,11.72,Actinide,1828,ThF4,"V3, V2",,,,4+,Th4+ + 4 e <---> Th,-1.899,Th
+91,Pa,Protactinium,231.03588,00A1FF,[Rn]7s2 5f2 6d1,1.5,243,5.89,,"+5, +4",Solid,1845,,15.37,Actinide,1913,"PaF4, PaF5",,,,,"3+, 4+","Pa3+ + 3 e <---> Pa, Pa4+ + 4 e <---> Pa","-1.34,  -1.49",
+92,U,Uranium,238.0289,008FFF,[Rn]7s2 5f3 6d1,1.38,240,6.194,,"+6, +5, +4, +3",Solid,1408,4404,18.95,Actinide,1789,"UF3, UF4, UF5, UF6","V3, V2",,,,"3+, 4/3+","U3+ + 3 e <---> U, U4+ + e <---> U3+","-1.798, -0.607",U
+93,Np,Neptunium,237.048172,0080FF,[Rn]7s2 5f4 6d1,1.36,221,6.266,,"+6, +5, +4, +3",Solid,917,4175,20.25,Actinide,1940,"NpF3, NpF4, NpF5, NpF6",,,,,"3+, 4/3+","Np3+ + 3 e <---> Np, Np4+ + e <---> Np3+"," -1.856, 0.147",
+94,Pu,Plutonium,244.0642,006BFF,[Rn]7s2 5f6,1.28,243,6.06,,"+6, +5, +4, +3",Solid,913,3501,19.84,Actinide,1940,"PuF3, PuF4, PuF5, PuF6","V3, V2",,,,"3+, 4/3+, 5/4+","Pu3+ + 3 e <---> Pu, Pu4+ + e <---> Pu3+, Pu5+ + e <---> Pu4+","-2.031, 1.006, 1.099",Pu
+95,Am,Americium,243.06138,545CF2,[Rn]7s2 5f7,1.3,244,5.993,,"+6, +5, +4, +3",Solid,1449,2284,13.69,Actinide,1944,"AmF3, AmF4",,,,,"2+, 3+, 3/2+","Am4+ + e <---> Am3+, Am2+ + 2 e <---> Am, Am3+ + 3 e <---> Am, Am3+ + e <---> Am2+","2.60, -1.9, -2.048, -2.3",
+96,Cm,Curium,247.07035,785CE3,[Rn]7s2 5f7 6d1,1.3,245,6.02,,3,Solid,1618,3400,13.51,Actinide,1944,CmF3,,,,,"4/3+, 3+","Cm4+ + e <---> Cm3+, Cm3+ + 3 e <---> Cm","3.0, -2.04",
+97,Bk,Berkelium,247.07031,8A4FE3,[Rn]7s2 5f9,1.3,244,6.23,,"+4, +3",Solid,1323,,14,Actinide,1949,"BkF3, BkF4",,,,,"4/3+, 2+, 3/2+","Bk4+ + e <---> Bk3+, Bk2+ + 2 e <---> Bk, Bk3+ + e <---> Bk2+","1.67, -1.6, -2.8",
+98,Cf,Californium,251.07959,A136D4,[Rn]7s2 5f10,1.3,245,6.3,,3,Solid,1173,,,Actinide,1950,CfF3,,,,,"4/3+, 3/2+, 3+, 2+","Cf4+ + e <---> Cf3+, Cf3+ + e <---> Cf2+, Cf3+ + 3 e <---> Cf, Cf2+ + 2 e <---> Cf","3.3, -1.6, -1.94, -2.12",
+99,Es,Einsteinium,252.083,B31FD4,[Rn]7s2 5f11,1.3,245,6.42,,3,Solid,1133,,,Actinide,1952,EsF3,,,,,"3/2+, 3+, 2+","Es3+ + e <---> Es2+, Es3+ + 3 e <---> Es, Es2+ + 2 e <---> Es","-1.3,  -1.91, -2.23",
+100,Fm,Fermium,257.09511,B31FBA,[Rn] 5f12 7s2,1.3,,6.5,,3,Solid,1800,,,Actinide,1952,FmF3,,,,,"3/2+, 3+, 2+","Fm3++ e <---> Fm2+, Fm3+ + 3 e <---> Fm, Fm2+ + 2 e <---> Fm","-1.1, -1.89, -2.30",
+101,Md,Mendelevium,258.09843,B30DA6,[Rn]7s2 5f13,1.3,,6.58,,"+3, +2",Solid,1100,,,Actinide,1955,"MdF2, MdF3",,,,,"3/2+, 3+, 2+","Md3+ + e <---> Md2+, Md3+ + 3 e <---> Md, Md2+ + 2 e <---> Md","-0.1, -1.65,  -2.40",
+102,No,Nobelium,259.101,BD0D87,[Rn]7s2 5f14,1.3,,6.65,,"+3, +2",Solid,1100,,,Actinide,1957,"NoF2, NoF3",,,,,"3/2+, 3+, 2+","No3+ + e <---> No2+, No3+ + 3 e <---> No, No2+ + 2 e <---> No",",1.4, -1.20, -2.50",
+103,Lr,Lawrencium,266.12,C70066,[Rn]7s2 5f14 6d1,1.3,,,,3,Solid,1900,,,Actinide,1961,LrF3,,,,,3+,Lr3+ + 3 e <---> Lr,-1.96,
+104,Rf,Rutherfordium,267.122,CC0059,[Rn]7s2 5f14 6d2,,,,,4,Solid,,,,Transition metal,1964,RfF4,,,,,,,,
+105,Db,Dubnium,268.126,D1004F,[Rn]7s2 5f14 6d3,,,,,"5, 4, 3",Solid,,,,Transition metal,1967,DbF5,,,,,,,,
+106,Sg,Seaborgium,269.128,D90045,[Rn]7s2 5f14 6d4,,,,,"6, 5, 4, 3, 0",Solid,,,,Transition metal,1974,SgF6,,,,,,,,
+107,Bh,Bohrium,270.133,E00038,[Rn]7s2 5f14 6d5,,,,,"7, 5, 4, 3",Solid,,,,Transition metal,1976,BhF7,,,,,,,,
+108,Hs,Hassium,269.1336,E6002E,[Rn]7s2 5f14 6d6,,,,,"8, 6, 5, 4, 3, 2",Solid,,,,Transition metal,1984,HsF8,,,,,,,,
+109,Mt,Meitnerium,277.154,EB0026,[Rn]7s2 5f14 6d7 (calculated),,,,,"9, 8, 6, 4, 3, 1",Solid,,,,Transition metal,1982,,,,,,,,,
+110,Ds,Darmstadtium,282.166,,[Rn]7s2 5f14 6d8 (predicted),,,,,"8, 6, 4, 2, 0",Expected to be a Solid,,,,Transition metal,1994,,,,,,,,,
+111,Rg,Roentgenium,282.169,,[Rn]7s2 5f14 6d9 (predicted),,,,,"5, 3, 1, -1",Expected to be a Solid,,,,Transition metal,1994,,,,,,,,,
+112,Cn,Copernicium,286.179,,[Rn]7s2 5f14 6d10 (predicted),,,,,"2, 1, 0",Expected to be a Solid,,,,Transition metal,1996,,,,,,,,,
+113,Nh,Nihonium,286.182,,[Rn]5f14 6d10 7s2 7p1 (predicted),,,,,,Expected to be a Solid,,,,Post-transition metal,2004,,,,,,,,,
+114,Fl,Flerovium,290.192,,[Rn]7s2 7p2 5f14 6d10 (predicted),,,,,"6, 4,2, 1, 0",Expected to be a Solid,,,,Post-transition metal,1998,,,,,,,,,
+115,Mc,Moscovium,290.196,,[Rn]7s2 7p3 5f14 6d10 (predicted),,,,,"3, 1",Expected to be a Solid,,,,Post-transition metal,2003,,,,,,,,,
+116,Lv,Livermorium,293.205,,[Rn]7s2 7p4 5f14 6d10 (predicted),,,,,"+4, +2, -2",Expected to be a Solid,,,,Post-transition metal,2000,,,,,,,,,
+117,Ts,Tennessine,294.211,,[Rn]7s2 7p5 5f14 6d10 (predicted),,,,,"+5, +3, +1, -1",Expected to be a Solid,,,,Halogen,2010,,,,,,,,,
+118,Og,Oganesson,295.216,,[Rn]7s2 7p6 5f14 6d10 (predicted),,,,,"+6, +4, +2, +1, 0, -1",Expected to be a Gas,,,,Noble gas,2006,,,,,,,,,

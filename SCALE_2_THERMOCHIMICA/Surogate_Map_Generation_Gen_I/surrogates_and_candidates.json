@@ -1,0 +1,682 @@
+{
+    "Ru": [
+        {
+            "Symbol": "H",
+            "Name": "Hydrogen",
+            "AtomicNumber": "1",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "P",
+            "Name": "Phosphorus",
+            "AtomicNumber": "15",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "Ru",
+            "Name": "Ruthenium",
+            "AtomicNumber": "44",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Os",
+            "Name": "Osmium",
+            "AtomicNumber": "76",
+            "Match_Quality": "Poor"
+        }
+    ],
+    "He": [
+        {
+            "Symbol": "He",
+            "Name": "Helium",
+            "AtomicNumber": "2",
+            "Match_Quality": "self"
+        }
+    ],
+    "Li": [
+        {
+            "Symbol": "Li",
+            "Name": "Lithium",
+            "AtomicNumber": "3",
+            "Match_Quality": "self"
+        }
+    ],
+    "Be": [
+        {
+            "Symbol": "Be",
+            "Name": "Beryllium",
+            "AtomicNumber": "4",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "V",
+            "Name": "Vanadium",
+            "AtomicNumber": "23",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Mn",
+            "Name": "Manganese",
+            "AtomicNumber": "25",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "In",
+            "Name": "Indium",
+            "AtomicNumber": "49",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Pr",
+            "Name": "Praseodymium",
+            "AtomicNumber": "59",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Pm",
+            "Name": "Promethium",
+            "AtomicNumber": "61",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Dy",
+            "Name": "Dysprosium",
+            "AtomicNumber": "66",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Ho",
+            "Name": "Holmium",
+            "AtomicNumber": "67",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Er",
+            "Name": "Erbium",
+            "AtomicNumber": "68",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Bk",
+            "Name": "Berkelium",
+            "AtomicNumber": "97",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Cf",
+            "Name": "Californium",
+            "AtomicNumber": "98",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "No",
+            "Name": "Nobelium",
+            "AtomicNumber": "102",
+            "Match_Quality": "Decent"
+        }
+    ],
+    "Mo": [
+        {
+            "Symbol": "B",
+            "Name": "Boron",
+            "AtomicNumber": "5",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "As",
+            "Name": "Arsenic",
+            "AtomicNumber": "33",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "Nb",
+            "Name": "Niobium",
+            "AtomicNumber": "41",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Mo",
+            "Name": "Molybdenum",
+            "AtomicNumber": "42",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Sb",
+            "Name": "Antimony",
+            "AtomicNumber": "51",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "Te",
+            "Name": "Tellurium",
+            "AtomicNumber": "52",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "Ta",
+            "Name": "Tantalum",
+            "AtomicNumber": "73",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "W",
+            "Name": "Tungsten",
+            "AtomicNumber": "74",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Re",
+            "Name": "Rhenium",
+            "AtomicNumber": "75",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Ir",
+            "Name": "Iridium",
+            "AtomicNumber": "77",
+            "Match_Quality": "Decent"
+        }
+    ],
+    "Xe": [
+        {
+            "Symbol": "C",
+            "Name": "Carbon",
+            "AtomicNumber": "6",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "S",
+            "Name": "Sulfur",
+            "AtomicNumber": "16",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "Xe",
+            "Name": "Xenon",
+            "AtomicNumber": "54",
+            "Match_Quality": "self"
+        }
+    ],
+    "Kr": [
+        {
+            "Symbol": "N",
+            "Name": "Nitrogen",
+            "AtomicNumber": "7",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "Kr",
+            "Name": "Krypton",
+            "AtomicNumber": "36",
+            "Match_Quality": "self"
+        }
+    ],
+    "Cl": [
+        {
+            "Symbol": "O",
+            "Name": "Oxygen",
+            "AtomicNumber": "8",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "Cl",
+            "Name": "Chlorine",
+            "AtomicNumber": "17",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Br",
+            "Name": "Bromine",
+            "AtomicNumber": "35",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Rn",
+            "Name": "Radon",
+            "AtomicNumber": "86",
+            "Match_Quality": "Poor"
+        }
+    ],
+    "F": [
+        {
+            "Symbol": "F",
+            "Name": "Fluorine",
+            "AtomicNumber": "9",
+            "Match_Quality": "self"
+        }
+    ],
+    "Ne": [
+        {
+            "Symbol": "Ne",
+            "Name": "Neon",
+            "AtomicNumber": "10",
+            "Match_Quality": "self"
+        }
+    ],
+    "Na": [
+        {
+            "Symbol": "Na",
+            "Name": "Sodium",
+            "AtomicNumber": "11",
+            "Match_Quality": "self"
+        }
+    ],
+    "Sr": [
+        {
+            "Symbol": "Mg",
+            "Name": "Magnesium",
+            "AtomicNumber": "12",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Ca",
+            "Name": "Calcium",
+            "AtomicNumber": "20",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Sr",
+            "Name": "Strontium",
+            "AtomicNumber": "38",
+            "Match_Quality": "self"
+        }
+    ],
+    "Cr": [
+        {
+            "Symbol": "Al",
+            "Name": "Aluminum",
+            "AtomicNumber": "13",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Ti",
+            "Name": "Titanium",
+            "AtomicNumber": "22",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Cr",
+            "Name": "Chromium",
+            "AtomicNumber": "24",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Co",
+            "Name": "Cobalt",
+            "AtomicNumber": "27",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Cu",
+            "Name": "Copper",
+            "AtomicNumber": "29",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Ge",
+            "Name": "Germanium",
+            "AtomicNumber": "32",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Sn",
+            "Name": "Tin",
+            "AtomicNumber": "50",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Bi",
+            "Name": "Bismuth",
+            "AtomicNumber": "83",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Pa",
+            "Name": "Protactinium",
+            "AtomicNumber": "91",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Am",
+            "Name": "Americium",
+            "AtomicNumber": "95",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Cm",
+            "Name": "Curium",
+            "AtomicNumber": "96",
+            "Match_Quality": "Decent"
+        }
+    ],
+    "Tc": [
+        {
+            "Symbol": "Si",
+            "Name": "Silicon",
+            "AtomicNumber": "14",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "Tc",
+            "Name": "Technetium",
+            "AtomicNumber": "43",
+            "Match_Quality": "self"
+        }
+    ],
+    "Ar": [
+        {
+            "Symbol": "Ar",
+            "Name": "Argon",
+            "AtomicNumber": "18",
+            "Match_Quality": "self"
+        }
+    ],
+    "K": [
+        {
+            "Symbol": "K",
+            "Name": "Potassium",
+            "AtomicNumber": "19",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Fr",
+            "Name": "Francium",
+            "AtomicNumber": "87",
+            "Match_Quality": "Good"
+        }
+    ],
+    "Ce": [
+        {
+            "Symbol": "Sc",
+            "Name": "Scandium",
+            "AtomicNumber": "21",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Ce",
+            "Name": "Cerium",
+            "AtomicNumber": "58",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Gd",
+            "Name": "Gadolinium",
+            "AtomicNumber": "64",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Lu",
+            "Name": "Lutetium",
+            "AtomicNumber": "71",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Ac",
+            "Name": "Actinium",
+            "AtomicNumber": "89",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Lr",
+            "Name": "Lawrencium",
+            "AtomicNumber": "103",
+            "Match_Quality": "Good"
+        }
+    ],
+    "Fe": [
+        {
+            "Symbol": "Fe",
+            "Name": "Iron",
+            "AtomicNumber": "26",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Au",
+            "Name": "Gold",
+            "AtomicNumber": "79",
+            "Match_Quality": "Decent"
+        }
+    ],
+    "Ni": [
+        {
+            "Symbol": "Ni",
+            "Name": "Nickel",
+            "AtomicNumber": "28",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Zn",
+            "Name": "Zinc",
+            "AtomicNumber": "30",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Cd",
+            "Name": "Cadmium",
+            "AtomicNumber": "48",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Pb",
+            "Name": "Lead",
+            "AtomicNumber": "82",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Po",
+            "Name": "Polonium",
+            "AtomicNumber": "84",
+            "Match_Quality": "Poor"
+        }
+    ],
+    "Rh": [
+        {
+            "Symbol": "Ga",
+            "Name": "Gallium",
+            "AtomicNumber": "31",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Rh",
+            "Name": "Rhodium",
+            "AtomicNumber": "45",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Ag",
+            "Name": "Silver",
+            "AtomicNumber": "47",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Tl",
+            "Name": "Thallium",
+            "AtomicNumber": "81",
+            "Match_Quality": "Decent"
+        }
+    ],
+    "I": [
+        {
+            "Symbol": "Se",
+            "Name": "Selenium",
+            "AtomicNumber": "34",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "I",
+            "Name": "Iodine",
+            "AtomicNumber": "53",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "At",
+            "Name": "Astatine",
+            "AtomicNumber": "85",
+            "Match_Quality": "Decent"
+        }
+    ],
+    "Rb": [
+        {
+            "Symbol": "Rb",
+            "Name": "Rubidium",
+            "AtomicNumber": "37",
+            "Match_Quality": "self"
+        }
+    ],
+    "La": [
+        {
+            "Symbol": "Y",
+            "Name": "Yttrium",
+            "AtomicNumber": "39",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "La",
+            "Name": "Lanthanum",
+            "AtomicNumber": "57",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Tb",
+            "Name": "Terbium",
+            "AtomicNumber": "65",
+            "Match_Quality": "Decent"
+        }
+    ],
+    "Zr": [
+        {
+            "Symbol": "Zr",
+            "Name": "Zirconium",
+            "AtomicNumber": "40",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Hf",
+            "Name": "Hafnium",
+            "AtomicNumber": "72",
+            "Match_Quality": "Good"
+        }
+    ],
+    "Pd": [
+        {
+            "Symbol": "Pd",
+            "Name": "Palladium",
+            "AtomicNumber": "46",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Pt",
+            "Name": "Platinum",
+            "AtomicNumber": "78",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Hg",
+            "Name": "Mercury",
+            "AtomicNumber": "80",
+            "Match_Quality": "Good"
+        }
+    ],
+    "Cs": [
+        {
+            "Symbol": "Cs",
+            "Name": "Cesium",
+            "AtomicNumber": "55",
+            "Match_Quality": "self"
+        }
+    ],
+    "Ba": [
+        {
+            "Symbol": "Ba",
+            "Name": "Barium",
+            "AtomicNumber": "56",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Ra",
+            "Name": "Radium",
+            "AtomicNumber": "88",
+            "Match_Quality": "Good"
+        }
+    ],
+    "Nd": [
+        {
+            "Symbol": "Nd",
+            "Name": "Neodymium",
+            "AtomicNumber": "60",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Sm",
+            "Name": "Samarium",
+            "AtomicNumber": "62",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Eu",
+            "Name": "Europium",
+            "AtomicNumber": "63",
+            "Match_Quality": "Good"
+        },
+        {
+            "Symbol": "Yb",
+            "Name": "Ytterbium",
+            "AtomicNumber": "70",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Es",
+            "Name": "Einsteinium",
+            "AtomicNumber": "99",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Fm",
+            "Name": "Fermium",
+            "AtomicNumber": "100",
+            "Match_Quality": "Decent"
+        },
+        {
+            "Symbol": "Md",
+            "Name": "Mendelevium",
+            "AtomicNumber": "101",
+            "Match_Quality": "Decent"
+        }
+    ],
+    "Pu": [
+        {
+            "Symbol": "Tm",
+            "Name": "Thulium",
+            "AtomicNumber": "69",
+            "Match_Quality": "Poor"
+        },
+        {
+            "Symbol": "Pu",
+            "Name": "Plutonium",
+            "AtomicNumber": "94",
+            "Match_Quality": "self"
+        }
+    ],
+    "Th": [
+        {
+            "Symbol": "Th",
+            "Name": "Thorium",
+            "AtomicNumber": "90",
+            "Match_Quality": "self"
+        }
+    ],
+    "U": [
+        {
+            "Symbol": "U",
+            "Name": "Uranium",
+            "AtomicNumber": "92",
+            "Match_Quality": "self"
+        },
+        {
+            "Symbol": "Np",
+            "Name": "Neptunium",
+            "AtomicNumber": "93",
+            "Match_Quality": "Decent"
+        }
+    ]
+}
